@@ -4,7 +4,7 @@
 Wiilki Ilaahay Ibrahim Ugu Balan Qaaday
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-01.jpg?direct&}}
 
 
 Ten years after Abram and Sarai arrived in Canaan, they still did not have a child. So Abram's wife, Sarai, said to him, “Since God has not allowed me to have children and now I am too old to have children, here is my servant, Hagar. Marry her also so she can have a child for me."
@@ -13,7 +13,7 @@ Ten years after Abram and Sarai arrived in Canaan, they still did not have a chi
 Toban sano kadib markii Aabram iyo Sara ay yimaade Kaanan waali ilmo ma lahayn. Kadib xaska Aabram ee Sara ayaa ku tidhi isaga, “ In kasto Ilaah (Swt) aanu ii ogolanin inan helo ciyaal iminkana aan aad u weynahay halkan waxa ila joogta gabadha ii adeegta ee Xagar. Gurso iyaada si aay ciyaal kugu dhasho.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-02.jpg?direct&}}
 
 
 So Abram married Hagar. Hagar had a baby boy, and Abram named him Ishmael. But Sarai became jealous of Hagar. When Ishmael was thirteen years old, God again spoke to Abram and said,
@@ -22,7 +22,7 @@ So Abram married Hagar. Hagar had a baby boy, and Abram named him Ishmael. But S
 Kadib Aabram wuu guursaday Xagar. Xagar na waxa dhashay wiil, wiilkina wuxu Aabram u bixiyeey Ismaciil. Lakiin markay Sara aragtay inay Xagar dhashay wiil aad ayeey uga hinaastay Xagar. Marku Ismaciil gaadhay da’da  saddex iy toban jir ah, ayuu Ilaah (Swt) la hadlay Aabram kuna yiri,
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-03.jpg?direct&}}
 
 
 “I am God Almighty. I will make a covenant with you.” Then Abram bowed to the ground. God said, “You will be the father of many nations. I will give you and your descendants the land of Canaan as their possession and I will be their God forever. Every male in your family must be circumcised.”
@@ -31,7 +31,7 @@ Kadib Aabram wuu guursaday Xagar. Xagar na waxa dhashay wiil, wiilkina wuxu Aabr
 “ Anigu waxan ahay Ilaaha xaq lagu cabudo. Waxan adiga (Aabram) kula galay axdi.” Kadib Aabram dhulka ayuu Ilaah (Swt) ugu su juday. Kadib wuxu Ilaah(Swt) ku yiri mar labaad, “ Waxad noqon doonta aabaha umado fara badan. Waxanan adiga iyo faracaga siin doona dhulka Kanaan inay iyagu yeeshan aniguna waxan waligay ahaan doona Ilaahadoo. Waana inaad guda ama xalalaysa wiil kaste oo ka dhasha qoyskagaa.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-04.jpg?direct&}}
 
 
 "Your wife, Sarai, will have a son—he will be the son of promise. Name him Isaac. My covenant will be with him, and he will become a great nation. I will make Ishmael a great nation, too, but my covenant will be with Isaac." Then God changed Abram's name to Abraham, which means "father of many." God also changed Sarai's name to Sarah, which means "princess."
@@ -40,7 +40,7 @@ Kadib Aabram wuu guursaday Xagar. Xagar na waxa dhashay wiil, wiilkina wuxu Aabr
 Ilaah (Swt) wuxu ku yidhi Aabram , “ Xaskagaa Sara waxay dhali doonta wiil- waxanu wiilkasu noqon doona ki aan ku balan qaaday. Waxad magaciisa u bixisa Isaaq. Axdigaygu isaga ayuu la socon doona , waxanu noqon doona umad aad u ficaan oo sare.” Kadib Ilaah (Swt) magacii Aabram  na wuxu ugu badaley Ibraahim, oo macneedu yahay “Aabaha farc badan” Ilaah (Swt) waxa kale u magaceedi badaley Sara kuna magacabay Sahara oo macneehedu yahay “ Boqorad.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-05.jpg?direct&}}
 
 
 That day Abraham circumcised all the males in his household. About a year later, when Abraham was 100 years old and Sarah was 90, Sarah gave birth to Abraham's son. They named him Isaac as God had told them to do.
@@ -49,7 +49,7 @@ That day Abraham circumcised all the males in his household. About a year later,
 Maalinta kadib Ibraahim wuxu bilaabay inu gudo ama xalaleyo wixi raga ee gurigiisa joogay. Sanad kadibna marku Ibraahim  noqday  100 sanno jir Saharuna tahay 90 jir, ayeey dhashay wiilki Ilaah (Swt) ugu balan qaaday. Waxay u bixiyeen Isaaq sidu Ilaah (Swt) u amray inay ugu yedhaan.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-06.jpg?direct&}}
 
 
 When Isaac was a young man, God tested Abraham’s faith by saying, “Take Isaac, your only son, and kill him as a sacrifice to me.” Again Abraham obeyed God and prepared to sacrifice his son.
@@ -58,7 +58,7 @@ When Isaac was a young man, God tested Abraham’s faith by saying, “Take Isaa
 Marku Isaaq aha wiil yar, Ilaah ayaa wuxu  tijabiyeey imaanki Ibraahim kuna yiri, “ Isaaq ka xee wiilkaga oo so sadaqee wanqal ahan. Xagayga.” Kadib  Ibraahim wuu adeecay Ilaah (Swt) wuxuna isku diyariyeey inu wanqalo wiilkiisa.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-07.jpg?direct&}}
 
 
 As Abraham and Isaac walked to the place of the sacrifice Isaac asked, “Father, we have wood for the sacrifice, but where is the lamb?” Abraham replied, “God will provide the lamb for the sacrifice, my son.”
@@ -67,7 +67,7 @@ As Abraham and Isaac walked to the place of the sacrifice Isaac asked, “Father
 Marku Ibraahim iyo Isaaq  ay aadeen meeshi lagu wanqalayeey ayuu isaaq waydiyey aabihi, “ Aabo, waynu helnay xabadi wax lagu shidaayaye mee neefki la qalayeey?  Ibraahim wuxu ugu jawabay, “ Ilaah (Swt) ayaa keeni neefki lagu wanqalayeey,
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-08.jpg?direct&}}
 
 
 When they reached the place of sacrifice, Abraham tied up his son Isaac and laid him on an altar. He was about to kill his son when God said, "Stop! Do not hurt the boy! Now I know that you fear me because you did not keep your only son from me."
@@ -76,7 +76,7 @@ When they reached the place of sacrifice, Abraham tied up his son Isaac and laid
 Marjay gaadheen meeshi wanqasha , ayuu ibraahim wiilkisi Isaaq indhaha ka xidhay kadibna dul jiifiyeey meeshi lagu sad qayn laha kadib marku mindiid kor u qaaday oo u rabay inu inaankisa gowraco ayuu Ilaah (Swt) ku yiri ,” jooji! Wax ha yeeli wiilka! Hada waxan ogaaday inaad aniga iga cabsato waayo amarkayga ayaad maqashay inaad wiilkaga aniga igu wan qasho.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-09.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-09.jpg?direct&}}
 
 
 Nearby Abraham saw a ram which was stuck in a bush. God had provided the ram to be the sacrifice instead of Isaac. Abraham happily offered the ram as a sacrifice.
@@ -85,7 +85,7 @@ Nearby Abraham saw a ram which was stuck in a bush. God had provided the ram to 
 Meel u dhow ayuu Ibraahim ku arkay wan ku xidhan meel kayn ah. Ilaah (Swt) ayaa u so dejiyeey wanka inu  gawraco xagu ka gawriici laha wiilkisa Isaaq. Ibraahim si faraxadi ku jirto ayuu ugu wanqalay neefki.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-10.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-10.jpg?direct&}}
 
 
 Then God said to Abraham, “Because you were willing to give me everything, even your only son, I promise to bless you. Your descendants will be more than the stars in the sky. Because you have obeyed me, all the families of the world will be blessed through your family.”

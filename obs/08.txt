@@ -4,7 +4,7 @@
 Ilaahay Waxa uu Badbaadiyey Yuusuf iyo Reerkoodii
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-02.jpg?direct&}}
 
 
 Many years later, when Jacob was an old man, he sent his favorite son, Joseph, to check on his older brothers who were far away, taking care of the herds.
@@ -13,7 +13,7 @@ Many years later, when Jacob was an old man, he sent his favorite son, Joseph, t
 Sanado  badan  kadib marku Yacquub nin da weyn  noqday, wuxu  inanki uu jecela ee Yuusuf   diray inay soo eego walaladiis oo meel fog xoolohoodi ku raacaya.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-01.jpg?direct&}}
 
 
 Joseph’s brothers hated him because their father loved him most and because Joseph had dreamed that he would be their ruler. When Joseph found his brothers, they kidnapped him and sold him to some slave traders.
@@ -22,7 +22,7 @@ Joseph’s brothers hated him because their father loved him most and because Jo
 Yuusuf walaladi way necebayeen waayo aabahood yacquub aad ayuu u jecela isaga waxa kale oo jiray inu Yuusuf ku riyooday inu noqon doono hogamiyahooda. Marku  Yuusuf arkay walaladiis oo xoolihii la jooga wuu u tegay kadibna waay qafaasheen oo aay ka ibiyeey niman dadka ka ganacasadaa.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-03.jpg?direct&}}
 
 
 Before Joseph's brothers returned home, they tore Joseph’s robe and dipped it in goat's blood. Then they showed the robe to their father so that he would think a wild animal had killed Joseph. Jacob was very sad.
@@ -31,7 +31,7 @@ Before Joseph's brothers returned home, they tore Joseph’s robe and dipped it 
 Ka hor intii aanay Yuusuf walaladii ku so laban gurigoodii, intay neef adhiya dileen ayeey jakeedkiisi dhiigi ku shubeen kadibna dhiigi ayeey tuseen aabahood Yacquub si uu ogaado in inankisi uu jecela ee Yuusuf uu xayawaan duur joogi cunay. Yacquubna aad ayuu u murugooday.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-04.jpg?direct&}}
 
 
 The slave traders took Joseph to Egypt. Egypt was a large, powerful country located along the Nile River. The slave traders sold Joseph as a slave to a wealthy government official. Joseph served his master well, and God blessed Joseph.
@@ -40,7 +40,7 @@ The slave traders took Joseph to Egypt. Egypt was a large, powerful country loca
 Nimankii dadka ka ganacasan jiray Yuusuf waxay u ka xaysteen xagaas iyo Masar.  Masar waxay aheyd wadan aad u baladhan oo aad u quwad badan kuna taala webiga niilka. Nimankii dadka ka ganacasan jiray waxay Yuusuf ka ibiyeen nin aad u tijaara kana tirsanaa sarakiisha Masariida wakhatiigas. Yuusuf si aad u wanagsan ayuu ugu adeegay ninka iibsaday, kadibna Ilaah wuu barakeyey Yuusuf.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-05.jpg?direct&}}
 
 
 His master’s wife tried to sleep with Joseph, but Joseph refused to sin against God in this way. She became angry and falsely accused Joseph so that he was arrested and sent to prison. Even in prison, Joseph remained faithful to God, and God blessed him.
@@ -49,7 +49,7 @@ His master’s wife tried to sleep with Joseph, but Joseph refused to sin agains
 Ninkii uu u adeegii jiray xaaskiisi ayaa damacaday in uu Yuusuf la seexdo lakiin Yuusuf wuu diiday inu ka sinaysato gabadha Ilaah dartiis. Aad ayeey uga cadhootay  kadib Yuusuf ayeey eedaysay si loo xidho oo xabsiga loogu rido, kadibna waa la xidhay. Xatta isaga oo xabsiga lagu riday wuxuu aha mid immaan leh oo Ilaahay garanaya, kadibna Ilaah wuu barakeyey isaga.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-06.jpg?direct&}}
 
 
 After two years, Joseph was still in prison, even though he was innocent. One night, the king of Egypt, who was called the Pharaoh, had two dreams that disturbed him greatly. None of his advisors could tell him the meaning of the dreams.
@@ -58,7 +58,7 @@ After two years, Joseph was still in prison, even though he was innocent. One ni
 Laba sanno kadib, wali Yuusuf xabsiga ayuu ku jiray, xatta isaga oo bila danbiyaa. Habeen ayaa boqorkii Masar haystay ee lagu magacabi jiray Fircoon ayaa waxa uu ku riyooday laba riyo oo aad u war war gelisay naftiisa. Lakiin  hal qof oo ka mid aha nimaanki la talin jirtay isaga ma heli wax uu ku macneeyo riyada Fircoon.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-07.jpg?direct&}}
 
 
 God had given Joseph the ability to interpret dreams, so Pharaoh had Joseph brought to him from the prison. Joseph interpreted the dreams for him and said, “God is going to send seven years of good harvests followed by seven years of famine.”
@@ -67,7 +67,7 @@ God had given Joseph the ability to interpret dreams, so Pharaoh had Joseph brou
 Ilaah wuxu awood ku siyeey Yuusuf inu macneeyo ama turjumo riyooyinka, lakiin Fircoon wuxu dalbaday in Yuusuf xabsiga lagaso saro loona keeno isaga. Yuusuf wuxu turjumay riyooyinki Fircoon wuxuna ku yidhi sidan, “Ilaah wuxu so diri doona todoba sanno oo dalag gurasha kadibna waxa iman doona todoba sanno oo abaara.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-08.jpg?direct&}}
 
 
 Pharaoh was so impressed with Joseph that he made him the second most powerful man in all of Egypt!
@@ -76,7 +76,7 @@ Pharaoh was so impressed with Joseph that he made him the second most powerful m
 Fircoon aad ayuu ula dhacay warkii Yuusuf taasina waxay ka dhigtay inu noqodo ninka labaad ee ugu awooda badan Masar!
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-09.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-09.jpg?direct&}}
 
 
 Joseph told the people to store up large amounts of food during the seven years of good harvests. Then Joseph sold the food to the people when the seven years of famine came so they would have enough to eat.
@@ -85,7 +85,7 @@ Joseph told the people to store up large amounts of food during the seven years 
 Yuusuf wuxu dadki u sheegay inay todobada sanno ee  dalagu jiro keydsadaan rashiin fara badan kadib Yuusuf wuxu ka ibiyeey rashiinki dadka wakhtigi abaartu jirtay si aay wax u cunaan.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-10.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-10.jpg?direct&}}
 
 
 The famine was severe not only in Egypt, but also in Canaan where Jacob and his family lived.
@@ -94,7 +94,7 @@ The famine was severe not only in Egypt, but also in Canaan where Jacob and his 
 Abaartu aad ayeey u xumayd ma ahayen Masar oo kaliya, xatta dhulka kancaan meeshi uu Yacquub iyo reerkisu ku noolayeen.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-11.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-11.jpg?direct&}}
 
 
 So Jacob sent his sons to Egypt to buy food. The brothers did not recognize Joseph when they stood before him to buy food. But Joseph recognized them.
@@ -103,7 +103,7 @@ So Jacob sent his sons to Egypt to buy food. The brothers did not recognize Jose
 Kadib Yacquub wuxu inamadiisi u diray Masar si aay rashiin uga so ibsadaan. Yuusuf walaladii may aqoonsan isaga xatta markii aay rashinka ka ibsanyeen ee ay hortagnayeen. Lakiin Yuusuf wuu garanayay iyaga.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-12.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-12.jpg?direct&}}
 
 
 After testing his brothers to see if they had changed, Joseph said to them, “I am your brother, Joseph! Do not be afraid. You tried to do evil when you sold me as a slave, but God used the evil for good! Come and live in Egypt so I can provide for you and your families.”
@@ -112,7 +112,7 @@ After testing his brothers to see if they had changed, Joseph said to them, “I
 Marku Yuusuf tijabiyeey walaladii inay is badaleen iyo in kale, ayuu Yuusuf ku yidhi iyagii, “ anigu waxan ahay walalkiin, Yuusuf! Ha cabsanina. Idinku waxad sameysen wax xun markad iga ibiseen nimanka ganacsadayaasha, lakiin Ilaah wuxu xumaanta ku badala wanaag! Kalay oo Masar ku noolada idinka iyo reerkinuba aniga ayaa idin cawiin doone.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-13.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-13.jpg?direct&}}
 
 
 When Joseph's brothers returned home and told their father, Jacob, that Joseph was still alive, he was very happy.
@@ -121,7 +121,7 @@ When Joseph's brothers returned home and told their father, Jacob, that Joseph w
 Markay Yuusuf walaladii aay ku laabteen dhul koodi una sheegen aabahood waxa Yacquub inu wali inankisii Yuusuf nool yahay, aad yuu ugu farxay.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-14.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-14.jpg?direct&}}
 
 
 Even though Jacob was an old man, he moved to Egypt with all of his family, and they all lived there. Before Jacob died, he blessed each of his sons.
@@ -130,7 +130,7 @@ Even though Jacob was an old man, he moved to Egypt with all of his family, and 
 In kasto Yacquub uu aad u weyna lakiin reerkisii iyo isaguba waxay u gureen Masar waxanay ku nooladeen xaggas.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-15.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-15.jpg?direct&}}
 
 
 The covenant promises that God gave to Abraham were passed on to Isaac, then to Jacob, and then to Jacob’s twelve sons and their families. The descendants of the twelve sons became the twelve tribes of Israel.

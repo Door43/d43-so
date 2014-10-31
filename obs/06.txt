@@ -4,7 +4,7 @@
 Ilaahay Waxa uu Ibrahim Siiyey Isaaq
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-01.jpg?direct&}}
 
 
 When Abraham was very old and his son, Isaac, had grown to be a man, Abraham sent one of his servants back to the land where his relatives lived to find a wife for his son, Isaac.
@@ -13,7 +13,7 @@ When Abraham was very old and his son, Isaac, had grown to be a man, Abraham sen
 Marku Ibraahim gaboobay inankisii  Isaaqna uu noqoday nin xooga, Wuxu Ibraahim diray mid ka mida shaqalihisii inu tako wadanki uu ka yimid ee qarabadisu ku noolayd inu gabadh u so helo wiilkisa, Isaaq.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-02.jpg?direct&}}
 
 
 After a very long journey, God led the servant to Rebekah, who was the granddaughter of Abraham’s brother.
@@ -22,7 +22,7 @@ After a very long journey, God led the servant to Rebekah, who was the granddaug
 Marku shaqalahi  tegey meeshi oo wakhati dheer si socday, ayuu Ilaah (Swt) ayuu ku hagajiyeey Shaqalihi gabadh la yidha Rubeekha  oo aheyd  inaan uu awoow u yahay Ibraahim walalkiis.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-03.jpg?direct&}}
 
 
 Rebekah agreed to leave her family and go back with the servant. Isaac married her as soon as she arrived.
@@ -31,7 +31,7 @@ Rebekah agreed to leave her family and go back with the servant. Isaac married h
 Rubeekha waxay ogolatay inay raacado shaqalihi Ibraahim so diray oo ay reerkoda ka tagto. Kadib  markay tagtay reer Ibraahim isla markiba waxa guursday inanti Isaaq.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-04.jpg?direct&}}
 
 
 After a long time, Abraham died and all of the promises that God had made to him in the covenant were passed on to Isaac. God had promised that Isaac would have countless descendants, but Isaac’s wife, Rebekah, could not have children.
@@ -40,7 +40,7 @@ After a long time, Abraham died and all of the promises that God had made to him
 Wakhti badan kadib Ibraahim wuu dhintay balan qaadki Ilaah (Swt) uu la galay Ibraahim ee axdigii wuxu ku warejiyeey Isaaq. Ilaah(Swt) wuxu Isaaq ugu balan qaaday inu heli doono ubad fara badan oo aan la tiring Karin, laakin xaskiisi Rubeekha wax ubada ma dhalin.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-05.jpg?direct&}}
 
 
 Isaac prayed for Rebekah, and God allowed her to get pregnant with twins. While they were still inside her, the two children struggled with each other, so Rebekah asked God what was happening.
@@ -49,7 +49,7 @@ Isaac prayed for Rebekah, and God allowed her to get pregnant with twins. While 
 Isaaq wuxu u duceeyey Rubeekha kadib Ilaah(Swt) ayaa ka maqlay ducaadisii oo uur matana ah ayeey yeelatay. Intay carruurtu uurka hooyadood ku jireen aad ayeey isugu dhib badnayeen, kadib Rubeekha ayaa Ilaah(Swt) weydisay wax ay ciyaalkeeda uurka ugu jira u dagalamayaan.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-06.jpg?direct&}}
 
 
 God told Rebekah, "There are two nations inside of you. They will struggle with each other and the older son will serve the younger one."
@@ -58,7 +58,7 @@ God told Rebekah, "There are two nations inside of you. They will struggle with 
 Rubeekhana wuxu Ilaah (Swt) u sheegay, “Inay laba qabiilo dhexdeed ku jiraan.  Kuna yiri way dagaalami dooonan dhexdooda waxana dhici doona inu ka weyn u adeegi doono ka yar.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-07.jpg?direct&}}
 
 
 When Rebekah's babies were born, the older son came out red and hairy, and they named him Esau. Then the younger son came out holding on to Esau's heel, and they named him Jacob.
