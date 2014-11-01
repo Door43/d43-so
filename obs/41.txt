@@ -4,7 +4,7 @@
 Ciise oo Ilaahay dhimashadii ka Soo Sara Kiciyeey
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-01.jpg?direct&}}
 
 
 After Jesus was crucified, the unbelieving Jewish leaders said to Pilate, “That liar, Jesus, said he would rise from the dead after three days. The tomb must be guarded so that his disciples do not steal the body and then say he has risen from the dead.”
@@ -13,7 +13,7 @@ After Jesus was crucified, the unbelieving Jewish leaders said to Pilate, “Tha
 Kadib markii Ciise iskutallabta lagu qodbay, hogamiyaayasha Yahuuda ee aan rumeysiga lahayn ayaa Bilaatos ku yidhi, “ Ciiseihi beenalaha waxa wuu yidhi waxan maalinta saddexad kaso kici dhimashada. Waa in xabashiisa la ilaaliya si aanay meydka u xadiin xertiisu kadib anu odhan waxan ka so kacay dhimashada.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-02.jpg?direct&}}
 
 
 Pilate said, “Make the tomb as secure as you can.” So they sealed the stone at the entrance of the tomb and put soldiers there to make sure no one could steal the body.
@@ -22,7 +22,7 @@ Pilate said, “Make the tomb as secure as you can.” So they sealed the stone 
 Bilaatos ayaa yidhi, “ Xabashaa waa in si adag loo ilaaliya.” Kadib xabashii ayaa aad loo adkeyeey oo dhax weyn ayaa irida lagaga xidhay waxana halkaas la  dhigay askar ilaalisa meydka sii aan lo xadii.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-03.jpg?direct&}}
 
 
 The day after Jesus was buried was a Sabbath, a day of rest. Very early on the morning after the Sabbath, several women went to Jesus’ tomb to put more burial spices on his body.
@@ -31,7 +31,7 @@ The day after Jesus was buried was a Sabbath, a day of rest. Very early on the m
 Maalintii ugu horraysay ee toddobaadka oo aheyd maalin sabti aha ayaa la aasay Ciise, goortii waagii beryayay kadib Sabtidii, ayeey dhowr dumarahii xabaashii yimaadeen, iyagoo wada dhirtii udgoonayd oo ay diyaargareeyeen
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-04.jpg?direct&}}
 
 
 There was a great earthquake. An angel appeared from heaven, as bright as lightning. He rolled away the stone that was covering the entrance to the tomb and sat on it. The soldiers guarding the tomb were terrified and fell to the ground like dead men.
@@ -40,7 +40,7 @@ There was a great earthquake. An angel appeared from heaven, as bright as lightn
 Waxa yimid dhul gariir. Malag ayaa jannada ka yimid, kaasi oo aad u cada sida iftiinka oo kale. Dhagaxii ayuu ka qaaday ku daboolna xabaasha waanu ku fadhistay, Askartii ilaalinaysay xabaasha aad ayeey u argagaxeen dhulkan wey ku dhaceen sidii rag dhintay oo kale.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-05.jpg?direct&}}
 
 
 The angel told the women, “Do not be afraid. Jesus is not here. He has risen from the dead, just like he said he would! Look in the tomb and see.” The women looked into the tomb and saw where Jesus had been lying. His body was not there!
@@ -49,7 +49,7 @@ The angel told the women, “Do not be afraid. Jesus is not here. He has risen f
 Malagii ayaa dumarkii ku yidhi, “ Ha cabsanina” isagu halkan ma joogo, laakiinse waa sara kacay. Xusuusta siduu idiinla hadlay intuu Galili weli joogay, isagoo leh, Wiilka Aadanaha waa in loo gacangeliyo dembilayaasha, oo iskutallaabta lagu qodbo, oo maalinta saddexaad uu soo sara kaco.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-06.jpg?direct&}}
 
 
 Then the angel told the women, “Tell the disciples that Jesus has risen from the dead and is going before you into Galilee.”
@@ -58,7 +58,7 @@ Then the angel told the women, “Tell the disciples that Jesus has risen from t
 Kadib Malagii ayaa dumarkii u  sheegay kun ayidhi, “ U sheeg xerta Ciise inu iagu ka so kacay dhimashadii oo uu uga horeyn doono Galiliya inta aanay gaadhin”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-07.jpg?direct&}}
 
 
 The women were full of fear and great joy. They ran to tell the disciples the good news.
@@ -67,7 +67,7 @@ The women were full of fear and great joy. They ran to tell the disciples the go
 Dumarkii aad ayeey u cabsadeen dhinacna wey ka faraxsanayeen. Inta aay carareen ayeey xertii Ciise warkii wanagsana u sheegen.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-08.jpg?direct&}}
 
 
 On the way, Jesus appeared to them, and they worshiped him. Jesus said, “Do not be afraid. Go and tell my disciples that I will see them in Galilee.”

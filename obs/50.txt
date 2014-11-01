@@ -4,7 +4,7 @@
 Ciise Wuu Soo Laaban Doona
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-01.jpg?direct&}}
 
 
 For almost 2,000 years, the Good News of Jesus the Messiah has been spreading, and the Church has been growing. Jesus said he would return at the end of the world. Though he has not yet come back, he will keep his promise.
@@ -13,7 +13,7 @@ For almost 2,000 years, the Good News of Jesus the Messiah has been spreading, a
 Ku dhawaansho 2,000 kun oo sanno, ayaa wax la baafinayeey warka wanagsan ee Ciise Masiix, mikinisaduhuna waay sii badanyayeen. Ciise waxa uu yidhii waan soo laban doona marka uu aduunku dhamaado. In kaste oo aanu weli soo laaban, balantiisa ma jebin doono inu soo laban doono.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-02.jpg?direct&}}
 
 
 As we wait for Jesus’ return, Christians are to live holy and godly lives. When Jesus was on earth he also said, “This Good News of the Kingdom will be preached in the whole world for a testimony to all the people groups, and then the end will come.”
@@ -22,7 +22,7 @@ As we wait for Jesus’ return, Christians are to live holy and godly lives. Whe
 Sida aaynu u sugaayno soo laba shada Ciise, waa inay Masiixiyintu ku noolada nolol quduusa oo Ilaahay ka raali yahay. Marku Ciise aduunka joogay waxa uu yidhi, “ Waa in la baafiya warkan wanagsan aduunka oo dhan si marag ku jiro dadka kala duwan ee aduunka oo dhan, kadib wax la dagan yahay dhamaadkii aduunka.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-03.jpg?direct&}}
 
 
 Many people groups still have not heard about Jesus. Before he returned to heaven, Jesus gave Christians the job of bringing the Good News to those who have never heard. He said, “Go and make disciples of all people groups! The fields are ripe for harvest!”
@@ -31,7 +31,7 @@ Many people groups still have not heard about Jesus. Before he returned to heave
 Dadka fara badan ayaan wali maqal Ciise. Intii aanu ku laaban jannada, Ciise waxa uu Masiixiyinta faray inay ka shaqeeyan sidii aay warka wanaagsan (Injiilka) aay u maqashiin laheeyn ku aan wali maqlin. Waxa kale oo uu yidhi, “ Taga oo sameeya xerta Ciise meel koox kaste oo dad ah! Miruhu waa diyaar ee gurta!”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-04.jpg?direct&}}
 
 
 Jesus also said, “A servant is not greater than his master. You will be tortured and killed because of me. In this world you will have trouble, but be encouraged. I have defeated Satan! Remain faithful to the end, and you will be saved.”
@@ -40,7 +40,7 @@ Jesus also said, “A servant is not greater than his master. You will be tortur
 Ciise waxa kale oo uu yidhi, “ Shaqale kama sareeyo sayidkiisa. Waa laydin ciqaabi doona wana leydin dili doona maxa yeelay aniga dartay. Aduunka waxa aad ku joogi doontan dhib, laakiin waan idin dhiirigelinaya. Anigu shaydanka waan iska difacay! Waligiin dacad ahaada ila dhamaadka, kadib waad badbaadi doontan.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-05.jpg?direct&}}
 
 
 Jesus told his disciples a story which helped explain what the end would be like. “The Kingdom of God is like a man who planted good seed in his field. But while he was sleeping, his enemy came and planted weeds along with the wheat, and then he went away.”
@@ -49,7 +49,7 @@ Jesus told his disciples a story which helped explain what the end would be like
 Ciise waxa uu xertiisa sheeko  ku sabsanayd sida aay u eekan doonto marka uu aduunku so dhamanayo. “ Boqortoyada Ilaahay waxa aay u eeg tahay nin beer abuuray. Laakiin markii uu seexday, cadawgiisii int aay u yimadeen intii uu hurday gocondh ku ag abuuray meeshi aay sarreenku uga baxayeey, kadibna wuu ka tagay.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-06.jpg?direct&}}
 
 
 “When the plants sprouted, the workers asked their master, ‘Sir, you planted good seed in that field. Why are there weeds in it?’ The master answered, ‘An enemy has planted them.’”
@@ -58,7 +58,7 @@ Ciise waxa uu xertiisa sheeko  ku sabsanayd sida aay u eekan doonto marka uu adu
 “Markii aay gaadhay wakhtigii beer goosashada, ayaa shaqalihii ninka beerta leh yidhahdeen, ‘ Mudane, waxa aad beerta ku abuurtay miro aad u fican, laakiin waxay gocondhadan ku dhex abuurani? Markaas ayuu ugu jawabay, ‘ Cadowaga ayaa ku abuuray.’”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-07.jpg?direct&}}
 
 
 “The workers responded, ‘Should we pull out the weeds?’ The master said, ‘No. If you do that, you will pull out some of the wheat as well. Wait until the harvest and then gather the weeds into piles to be burned, but bring the wheat into my barn.’”
@@ -67,7 +67,7 @@ Ciise waxa uu xertiisa sheeko  ku sabsanayd sida aay u eekan doonto marka uu adu
 “Ladib shaqalahii ayaa ugu jawabay, ‘ Ma soo gurna gocondhada? markasu sayidkii beertu yidhi, ‘ Maya. hadii aad so gurtaan, waxa soo raaci doona sarreenka. Suga ilaa aay ka korayaan kadib soo gura gocondhada kadib guba, laakiin ii keena sarrenka oo suuxun igu soo gura.’”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-08.jpg?direct&}}
 
 
 The disciples did not understand and said to Jesus, “Please explain this story to us.” Jesus said, “The man who planted the good seed is the Messiah. The field is the world. The good seed represents the people of God’s Kingdom.”
@@ -76,7 +76,7 @@ The disciples did not understand and said to Jesus, “Please explain this story
 Marku Ciise uga sheekaynayeey sheekada xertiisu may fahmin waxa uu u jeedo kadib waxa aay Ciise ku yidhahdeen, “ Fadlan noo sharax sheekada anaga.” Ciise ayaa ku yidhi, “ Ninka beeray miraha fiican waa Masiix. Beertu waa aduunka. Miraha ficaan waxa aay u taagan yihiin dadka ficaan ee iska leh boqortoyada Ilaahay.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-09.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-09.jpg?direct&}}
 
 
 “The weeds represent the people who belong to the evil one. The enemy who planted them is the devil. The harvest is the end of the world, and the harvesters are the angels.”
@@ -85,7 +85,7 @@ Marku Ciise uga sheekaynayeey sheekada xertiisu may fahmin waxa uu u jeedo kadib
 “Gocondhadu waxa aay u tagan tahay dadka xun ee boqortoyada shaydanka ku dhex jiray. Ninka gocondhaada xuna waa Shaydan
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-10.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-10.jpg?direct&}}
 
 
 “At the end of the world, all the people who belong to the devil will be gathered together and thrown into a fiery furnace, where there is weeping and grinding of teeth. Then the righteous ones will shine like the sun in the Kingdom of their Father.”
@@ -94,7 +94,7 @@ Marku Ciise uga sheekaynayeey sheekada xertiisu may fahmin waxa uu u jeedo kadib
 “Marka uu aduunku dhamado, dadka raacay shaydaanka waa laysku soo ururin doona oo waxa lagu tuuri doona meel xun. Laakiin kuwa xaqa ku taagan waxa aay u muqaan doonan sida cadceeda oo kale boqortoyada Ilaahay,”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-11.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-11.jpg?direct&}}
 
 
 When Jesus returned to heaven, he said that he would return to earth the same way that he left—with a physical body in the clouds. Jesus also promised that when he returns, all Christians who have died will rise from the dead and meet him in the air.
@@ -103,7 +103,7 @@ When Jesus returned to heaven, he said that he would return to earth the same wa
 Marku Ciise ku laabtay jannada, waxa u yidhi aduunka wuu ku soo laban doona  isaga oo jidhka bini’aadanka leh sidii uu ah marku aduunka .  Waxa kale uu Ciise balan qaday arka uu soo laabto, inaay Masiixiyintii dhimatay oo dhan aay soo laaban doonan kuna kulmi doonan cirka sare isaga.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-12.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-12.jpg?direct&}}
 
 
 The Christians who are still alive will then rise up together with them in the air and all Christians will be with Jesus forever. Jesus will be with his people in perfect unity forever.
@@ -112,7 +112,7 @@ The Christians who are still alive will then rise up together with them in the a
 Masiixiyinta noolna waay raaci doonan kuwa kale oo dhamaan waxa aay ku kulmi doonan cirka oo dhamaan Masixiyinta waxa aay la noolan doonan Ciise waligoodba.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-13.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-13.jpg?direct&}}
 
 
 Christians will be given the crown of life. They will never experience the second death, which is hell. Instead, they will live forever with God in perfect peace.
@@ -121,7 +121,7 @@ Christians will be given the crown of life. They will never experience the secon
 Masiixiyina waxa la siin doona bilada noolosha. Mar laabadna ma dhiman doonan, taasi  waxa lagu sameyn doona kuwa cadaabta gala. Waxa aay waligood si nabad ah kula noolan doonan Ilaahay.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-14.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-14.jpg?direct&}}
 
 
 But those who do not believe in Jesus will be judged by God and thrown into hell forever. In hell, people constantly weep and grind their teeth in anguish. They are burned by fire that never goes out and eaten by worms that never die.
@@ -130,7 +130,7 @@ But those who do not believe in Jesus will be judged by God and thrown into hell
 Laakiin kuwa aan Ciise rumeysan waa la xisaabin doona waxana lagu tuuri doona cadaabta. Cadaabtan waxa yaala xanuun iyo ciqaab aad u daram. Waxa lagu gubi doona cadaabta waxana cuni doona xayaawan waligoodna ma dhimaan doonan.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-15.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-15.jpg?direct&}}
 
 
 Jesus will also completely destroy Satan and his kingdom and will throw him into the lake of fire where he will burn forever. Death also will be thrown into the lake of fire.
@@ -139,7 +139,7 @@ Jesus will also completely destroy Satan and his kingdom and will throw him into
 Ciise waxa kale oo uu burburin doona shaydanka iyo boqortayadiisa waxana shaydanka lagu uuri doona webi naar ah  oo halkaas ayuu waligi ku guban doona. Markaas ayaa dhimashadana oo dhan waxa lagu tuuri doona webi dab ah.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-16.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-16.jpg?direct&}}
 
 
 God cursed the universe because of Adam and Eve's sin and he will destroy it. Jesus will create a New Heaven and a New Earth that will be perfect.
@@ -148,7 +148,7 @@ God cursed the universe because of Adam and Eve's sin and he will destroy it. Je
 Ilaahay waxa uu habaray aduunka waayo waxi uu Xawa iyo Adam suubiyeen awgeed waanu baabin doona aduunka aay sameeyen iyagu marku aduunku dhamaado. Ciise waxa uu abuuri doona dhul cusub iyo cir aad u ficaan.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-17.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-17.jpg?direct&}}
 
 
 Jesus will reign forever and ever. He will wipe away every tear and there will be no more death, suffering, sadness, crying, evil, or pain. He will rule his Kingdom with peace and justice, and he will be with his people forever.

@@ -4,7 +4,7 @@
 Ciise oo Maxkamad La Saaray
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-01.jpg?direct&}}
 
 
 It was now the middle of the night. The soldiers led Jesus to the house of the high priest to be questioned. Peter followed far behind. When Jesus was taken into the house, Peter stayed outside and warmed himself by a fire.
@@ -13,7 +13,7 @@ It was now the middle of the night. The soldiers led Jesus to the house of the h
 Waxa aay aheyd habeenka dhexdiisii. Markay askarti geeyen guriga wadaadka diinta ugu sareeya si su’aalo loo weydiyo Ciise. Butros wuu soo daba socday markii Ciise la sii waday. Markii guriga la galiyeey Butros waxa uu iska dul fadhistay meel guriga hortiisa oo dab leh.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-02.jpg?direct&}}
 
 
 Inside the house, the Jewish leaders put Jesus on trial. They brought many witnesses who lied about him. However, their statements did not agree with each other, so they could not prove he was guilty of anything. Jesus did not say anything.
@@ -22,7 +22,7 @@ Inside the house, the Jewish leaders put Jesus on trial. They brought many witne
 Guriga dhexdiisa , ayeey hogamiyaayshii Yahuudu Ciise ku maxkamdeeyen. Waxa aay kenen markhaati beenalayaal badan. Si kasteba ha ahate, dhamaan warkii aay sheegayeen wuu is khilafayeey, kadib wax denbi ah kumey helin Ciise. Ciisena waxaba meeshaas ka ma odhan.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-03.jpg?direct&}}
 
 
 Finally, the high priest looked directly at Jesus and said, “Tell us, are you the Messiah, the Son of the living God?”
@@ -31,7 +31,7 @@ Finally, the high priest looked directly at Jesus and said, “Tell us, are you 
 Ugu danbeyntii wadaaki ugu sareeyey diinta aaya intu Ciise si cadaana u eegay ku yidhi, “ Noo sheegay, adigu ma waxad tahay Masiix, inanka Ilaahay ee nool?”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-04.jpg?direct&}}
 
 
 Jesus said, “I am, and you will see me seated with God and coming in power from heaven.” The high priest tore his clothes in anger and shouted, “We do not need any more witnesses. You have heard him say that he is the Son of God. What is your judgment?”
@@ -40,7 +40,7 @@ Jesus said, “I am, and you will see me seated with God and coming in power fro
 Ciise ugu jawabay, “ Waan ahay, waxanad arkii doonta aniga oo samada saree fadhiya oo awood kaga iman doono jannada.” Wadaadki diinta  ugu sareeyey ayaa waxa uu yidhi inti dharkiisi jexjexay si cadho leh, “ Inagu uma baahniin markhatii kale. Idinku waad maqlaysan waxa uu yidhi inu yahay wiilka Ilaahay. Maxay tahay xukunkiinu?
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-05.jpg?direct&}}
 
 
 The Jewish leaders all answered, “He deserves to die!” Then they blindfolded Jesus, spit on him, hit him, and mocked him.
@@ -49,7 +49,7 @@ The Jewish leaders all answered, “He deserves to die!” Then they blindfolded
 Dhamaan hogamiyaayashii Yahuuda hadlay , “  Waa in la dila!’ Kadib Ciise waa la idha duubay, cadhuuf ayaa lagu tufay, waa la garacay wana lagu qosqoslay.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-06.jpg?direct&}}
 
 
 Outside the house, a girl saw Peter and said, “You also were with Jesus!” Peter denied it. Later, another girl said the same thing, and Peter denied it again. Finally, the people said, “You were with Jesus because you both are from Galilee.”
@@ -58,7 +58,7 @@ Outside the house, a girl saw Peter and said, “You also were with Jesus!” Pe
 Halkii uu Butros fadhiyeey, ayaa gabadhi aragtay waxany ku tidhi, “ Adigu waxaad la socotay Ciise!” Butros ayaa dafiray.  Waxooga ka bacdii gabadh kale ayaa sidii oo kale ku tidhii , kadibna wuu dafiray mar labaadkii. ugu danbeyntii dadkii ayaa ku yidhi, “ Adigu waxad la socotay Ciise maxa yeelay labadiinuba waxaad ka timaadan Galiliya.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-07.jpg?direct&}}
 
 
 Peter swore, saying, “May God curse me if I know this man!” Immediately, a rooster crowed, and Jesus turned and looked at Peter.
@@ -67,7 +67,7 @@ Peter swore, saying, “May God curse me if I know this man!” Immediately, a r
 Butros wuu dhartay, oo yidhii, “ Ilaahay ha ii habaaro hadii aan ninkan aqaanba!” Isla markiiba diiga ayaa ciyeey kadib Ciise ayaa eegay Butros.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-08.jpg?direct&}}
 
 
 Peter went away and cried bitterly. Meanwhile, when Judas, the betrayer, saw that Jesus had been condemned, he became full of sorrow and went away and killed himself.
@@ -76,7 +76,7 @@ Peter went away and cried bitterly. Meanwhile, when Judas, the betrayer, saw tha
 Butros wuu cararay oo six un ayuu u ooyay. Isla markaasna, Yuudas ninkii Ciise soo gacan geliyeey waxa uu arkay in Ciise laga dhigay denbiile, isna intu murugooday ayuu tegay oo is dilay.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-09.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-09.jpg?direct&}}
 
 
 Early the next morning, the Jewish leaders brought Jesus to the Roman governor, Pilate, hoping to have Jesus killed. Pilate asked him, “Are you the King of the Jews?”
@@ -85,7 +85,7 @@ Early the next morning, the Jewish leaders brought Jesus to the Roman governor, 
 Subaxi danbee aroortii, ayaa hogamiyayasha Yahuudu Ciise la horkenay hogamiyihii Roomaninyinta, Bilaatos, isaga oo u malaynaya inu Ciise wax dilay. Bilaatos ayaa Ciise weydiyeey, “ Adigu ma waxaad tahay boqorka Yahuuda?”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-10.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-10.jpg?direct&}}
 
 
 Jesus answered, “You have said so, but my Kingdom is not an earthly kingdom. If it were, my servants would fight for me. But I have come to earth to tell the truth about God. Everyone who loves the truth listens to me.” Pilate said, “What is truth?”
@@ -94,7 +94,7 @@ Jesus answered, “You have said so, but my Kingdom is not an earthly kingdom. I
 Ciise ayaa u jawabay, “Waa sida aad tidhi, laakiin boqortoyadadu maha ta aduunka. Hadii aay ahan lahayd askartayda ayaa ii dagalamii lahayed. Laakiin waxan aduunka u imid inaan runta Ilaahay sheego. Qof kaste oo runta jecelina aniga wuu I maqlaa.” Bilaatos ayaa ku yidhi, “ Runtu maxay tahay?”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-11.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-11.jpg?direct&}}
 
 
 After speaking with Jesus, Pilate went out to the crowd and said, “I find no guilt in this man.” But the Jewish leaders and the crowd shouted, “Crucify him!” Pilate replied, “He is not guilty.” But they shouted even louder. Then Pilate said a third time, “He is not guilty!”
@@ -103,7 +103,7 @@ After speaking with Jesus, Pilate went out to the crowd and said, “I find no g
 Marku bilaatos la hadlay Ciise, ayuu Bilaatos dadki u tagay oo ku yidhi, “ Anigu wax denbi ah ku ma hayo ninkan.” Laakiin hogaamiyaayshii Yahuuuda yaa ku qayliyeey dadkii faraha badna ee dawanayeey, “ Ha la dilo isag!” Markas ayuu Bilaatos yidhi, “ Isagu deni ma laha.” Laakiin aad ayeey dadkii u qayliiyeen. Kadib Bilaatos waxa uu markii saddex yidhi, “ Denbi ma laha!”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-12.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-12.jpg?direct&}}
 
 
 But Pilate became afraid that a riot would start, so he handed Jesus over to them to be crucified. The soldiers whipped Jesus, put a royal robe and a crown made of thorns on him, and they mocked him, saying, “Look, the King of the Jews!”

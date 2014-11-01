@@ -4,7 +4,7 @@
 Sheekadii Wanagsaneyd ee Samaariya
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-01.jpg?direct&}}
 
 
 One day, a lawyer came to Jesus to test him, saying, “Teacher, what must I do to inherit eternal life?” Jesus answered, “What is written in God’s law?”
@@ -13,7 +13,7 @@ One day, a lawyer came to Jesus to test him, saying, “Teacher, what must I do 
 Maalin ayaa waxa Ciise u yimid nin garyaqaana oo rabay inu tijaabiyo isaga waxanu ku yiri, “ Macalin, maxaan sameeya oo aan Jannada ku helaya?”  Ciise waxa uu ugu jawabay, “ Maxaa ku qoran shariciga Ilaahay?”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-02.jpg?direct&}}
 
 
 “Love the Lord your God with all your heart, soul, strength, and mind. And love your neighbor as yourself,” the lawyer said. Jesus answered, “You are correct! Do this and you will live.”
@@ -22,7 +22,7 @@ Maalin ayaa waxa Ciise u yimid nin garyaqaana oo rabay inu tijaabiyo isaga waxan
 “Jecelow Rabbiga Ilaahaga oo qalbigaag oo dhan sii, iyo naftada, awoodada iyo maskaxadada.  Waxa kale oo aad jeclaata jaarkaga sida naftaada oo kale,” garyaqankii ayaa Ciise ugu jawabay, “ Waad saxsantahay! Sidaas same kadib waad noolan doonta.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-03.jpg?direct&}}
 
 
 But the lawyer wanted to prove that he was right, so he asked, “Who is my neighbor?”
@@ -31,7 +31,7 @@ But the lawyer wanted to prove that he was right, so he asked, “Who is my neig
 Laakiin si garyaqankii u xaqijiyo  inu Ciise saxsanaa, waxa uu weydiyeey, “ Yaa ah jarkayga?”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-04.jpg?direct&}}
 
 
 Jesus answered with a story. “There was a Jewish man who was traveling along the road from Jerusalem to Jericho.”
@@ -40,7 +40,7 @@ Jesus answered with a story. “There was a Jewish man who was traveling along t
 Ciise waxa uu ugu jawabay sheeko isaga ku leh, “ Waxa jiray nin Yahuuda oo u kala safarayeey jidka u dhaxeeyay Yeruuslaam iyo Yerixoo.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-05.jpg?direct&}}
 
 
 “While the man was traveling, he was attacked by a group of robbers. They took everything he had and beat him until he was almost dead. Then they went away.”
@@ -49,7 +49,7 @@ Ciise waxa uu ugu jawabay sheeko isaga ku leh, “ Waxa jiray nin Yahuuda oo u k
 “Inta uu ninki safarkiisa sii watay, waxa ninkii soo weraray niman tuuga. Wax kaste oo uu haystay waay ka qaateen, waanay garaceen isaga ilaa aay meyd ahan uga tageen. Kadibna way iskaga tageen marku dhulka ku dhacay ninki.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-06.jpg?direct&}}
 
 
 “Soon after that, a Jewish priest happened to walk down that same road. When this religious leader saw the man who had been robbed and beaten, he moved to the other side of the road, ignored the man in need, and kept on going.”
@@ -58,7 +58,7 @@ Ciise waxa uu ugu jawabay sheeko isaga ku leh, “ Waxa jiray nin Yahuuda oo u k
 “Isla markaa kadib,  wadaad Yahuudiya ayaa wadadii so maray isago safaraya. Marku wadaadki diintu uu arkay ninki la garacay oo dhulka jiifa, dariiqi inta uu ka lexday ayuu ninki iska dhaafay oo safarkiisi ayuu iska sii watay.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-07.jpg?direct&}}
 
 
 “Not long after that, a Levite came down the road. (Levites were a tribe of Jews who helped the priests at the Temple.) The Levite also crossed over to the other side of the road and ignored the man who had been robbed and beaten.”
@@ -67,7 +67,7 @@ Ciise waxa uu ugu jawabay sheeko isaga ku leh, “ Waxa jiray nin Yahuuda oo u k
 “Wakhatii aan ka fogayn marku wadaadka meesha maray ayaa waxa meesha soo maray nin reer laawi ah ( Reer laawigu waxay ahayeen qolo ka tirsan Yahuuda oo cawiya wadaadka macbuudka haysta)  Ninki reer laawi aayaa sido kale iska dhaafay ninkii tuugadu heshay ee wadada jiifay.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-08.jpg?direct&}}
 
 
 “The next person to walk down that road was a Samaritan. (Samaritans were the descendants of Jews and people from other nations. Samaritans and Jews hated each other.) When the Samaritan saw the man, he was filled with compassion. He cared for him and bandaged his wounds.”
@@ -76,7 +76,7 @@ Ciise waxa uu ugu jawabay sheeko isaga ku leh, “ Waxa jiray nin Yahuuda oo u k
 “Qofkii saddexad ee wadada so mary ayaa waxa uu aha nin reer samaariya ah (Samaariintu waxay ahayeen dad isku dhafa oo ka dhashay Yahuud iyo dad aan Yahuud ahayen. Samaariyinta iyo Yahuudu aad ayeey isku necbaayen.) Marku ninki reer Samaariya arkay ninki dhulka jiifay aad ayuu u naxay. Ninki wuu qaaday oo wuu daweeyey dhawacyadiisi.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-09.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-09.jpg?direct&}}
 
 
 “The Samaritan then lifted the man onto his own donkey and took him to a hotel where he took care of him.”
@@ -85,7 +85,7 @@ Ciise waxa uu ugu jawabay sheeko isaga ku leh, “ Waxa jiray nin Yahuuda oo u k
 “Kadib ninki reer Samaariyaa ninki waxa uu saray dameerkisa waxanu geeyey huteel halkaasna wuu ku xananeyey isagii,”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-10.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-10.jpg?direct&}}
 
 
 “The next day, the Samaritan needed to continue his journey. He gave the person in charge of the hotel some money and said, ‘Take care of him, and if you spend any more money than this, I will repay those expenses when I return.’”
@@ -94,7 +94,7 @@ Ciise waxa uu ugu jawabay sheeko isaga ku leh, “ Waxa jiray nin Yahuuda oo u k
 “Maalinti danbe, ayaa ninki reer Samaariya ayaa waxa uu rabay inu safarkiisa sii wato. Ninkii huteelka haystay ayaa waxa uu u dhibay lacag waxanu ku yidhi, “ Ninkan xanane, hadii uu isticimaalo lacagtan aan ku dhibay in ka badan, aniga ayaa ku gudi doona marka aan so laabto.’”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-11.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-11.jpg?direct&}}
 
 
 Then Jesus asked the lawyer, “Which one of the three men do you think was a neighbor to the man who was robbed and beaten?” The lawyer replied, “The one who showed mercy.” Jesus told the lawyer, “You go and do the same thing.”

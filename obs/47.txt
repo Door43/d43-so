@@ -4,7 +4,7 @@
 Bawlos iyo Silas oo Jooga Filibiya
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-01.jpg?direct&}}
 
 
 Some years later, Paul and his friend Silas went to the town of Philippi, proclaiming the Good News about Jesus. They met a woman named Lydia who sold purple cloth. She loved and worshiped God.
@@ -13,7 +13,7 @@ Some years later, Paul and his friend Silas went to the town of Philippi, procla
 Sannado badan kadib, ayaa Bawlos iyo saxiibkii Silas waxa aay tageen magalada Filibiya iyagaa  oo  dadka ku wacdinaaya warka wanagsan ee Ciise ku sabsan. Waxa aay halkaas kula kulmeen gabadh la yidha Ludiya oo dhar guduudan ibin jirtay. Ilaahay ayeey jeclaayad oo aay cabuudi jirtay.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-02.jpg?direct&}}
 
 
 God opened Lydia's heart to understand the message of Jesus, and she and her family were baptized. She invited Paul and Silas to stay at her house, so they did.
@@ -22,7 +22,7 @@ God opened Lydia's heart to understand the message of Jesus, and she and her fam
 Taasoo Rabbigu qalbigeeda furay inay dhegaysato waxyaalihii Bawlos ku hadlay. Oo markii la baabtiisay iyada iyo dadkii gurigeeda, ayay naga bariday iyadoo leh. Haddaad qiyaasaysaan inaan Rabbiga aamin u ahay, gurigayga kaalaya oo jooga. Waana na yeelsiisay.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-03.jpg?direct&}}
 
 
 Paul and Silas often went to pray while they were in Philippi. Every day as they walked to the place of prayer, a slave girl possessed by a demon followed them. She was a fortune teller, and she made a lot of money for her masters.
@@ -31,7 +31,7 @@ Paul and Silas often went to pray while they were in Philippi. Every day as they
 Oo waxaa dhacday, markii aannu u sii soconnay meeshii lagu tukan jiray, in ay naga hor timid gabadh jinni wax sheega qabtaa, taasoo waxsheegiddeeda faa'iido badan ugu keeni jirtay sayidyadeeda.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-04.jpg?direct&}}
 
 
 The slave girl kept yelling, “These men are servants of the Most High God. They are telling you the way to be saved!” She did this so often that Paul became annoyed.
@@ -40,7 +40,7 @@ The slave girl kept yelling, “These men are servants of the Most High God. The
 Taasaa Bawlos iyo annaga na soo raacday, wayna qaylisay iyadoo leh, Nimankanu waa addoommadii Ilaaha ugu sarreeya, kuwaasoo idinku wacdiyaya jidka badbaadada.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-05.jpg?direct&}}
 
 
 One day, Paul turned to her and said to the demon, “In the name of Jesus, come out of her.” Right away the demon left her.
@@ -49,7 +49,7 @@ One day, Paul turned to her and said to the demon, “In the name of Jesus, come
 Laakiin Bawlos oo ka xumaaday ayaa u jeestay oo jinnigii ku yidhi, “Magaca Ciise Masiix ayaan kugu amrayaa inaad iyada ka soo baxdid.” Markaasuu saacaddiiba ka soo baxay.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-06.jpg?direct&}}
 
 
 The men who owned the slave girl became very angry when they realized the slave girl could no longer make money for them.
@@ -58,7 +58,7 @@ The men who owned the slave girl became very angry when they realized the slave 
 Nimaanki laha gabadha adoonta aha ayaa aad u cadhooday markay ogaadeen inay gabadhii adoontahayd wax lacag oo danbe u kenyen iyaga waayo jinki waa laga saaray.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-07.jpg?direct&}}
 
 
 So the owners of the slave girl had Paul and Silas arrested, beaten, and thrown into jail.
@@ -67,7 +67,7 @@ So the owners of the slave girl had Paul and Silas arrested, beaten, and thrown 
 Kadib nimankii gabadha adoonta laha ayaa Bawlos iyo Silas xiray oo garacay kuna tuuray jeel.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-08.jpg?direct&}}
 
 
 Paul and Silas were put in the most secure part of the prison with their feet locked up. In the middle of the night, they were singing songs of praise to God.
@@ -76,7 +76,7 @@ Paul and Silas were put in the most secure part of the prison with their feet lo
 Bawlos iyo Silaas waxa lagu xidhay jeelasha ugu adag ee aan maxabiistu ka baxsan Karin. Markay habeenkii kala badh noqdo ayeey heeso Ilaah ammaan ah qaadi jireen.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-09.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-09.jpg?direct&}}
 
 
 Suddenly, the earth shook and the prison doors flew open. All the prisoners’ chains fell off.
@@ -85,7 +85,7 @@ Suddenly, the earth shook and the prison doors flew open. All the prisoners’ c
 Isla markiba waxa dhacay dhul gariir oo albaabadii maxabiista ayaa furmay. markaas ayeey maxabiistii kitinadihii jabiyeen.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-10.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-10.jpg?direct&}}
 
 
 When the jailer saw that the doors were open, he planned to kill himself, thinking that all the prisoners had escaped. (He knew he would be killed for letting the prisoners escape.) Paul saw him and yelled, “Stop! Do not hurt yourself. We are all here.”
@@ -94,7 +94,7 @@ When the jailer saw that the doors were open, he planned to kill himself, thinki
 Xabsihayihiina markuu hurdada ka toosay oo arkay albaabbadii xabsiga oo wada furmay, ayuu seeftiisii la baxay oo ku dhowaaday inuu isdilo, maxaa yeelay, wuxuu u malaynayay maxaabiistii inay baxsatay. Laakiin Bawlos baa cod weyn ku qayliyey isagoo leh, Waxba ha isyeelin; maxaa yeelay, kulligayo halkaannu wada joognaa.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-11.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-11.jpg?direct&}}
 
 
 The jailer was terrified! He took Paul and Silas home, gave them some food, and washed their wounds. Then he said, “What must I do to be saved?”
@@ -103,7 +103,7 @@ The jailer was terrified! He took Paul and Silas home, gave them some food, and 
 Markaasuu cid u diray siraaddo, oo gudaha ku booday isagoo baqdin la gargariiraya, oo wuxuu ku hor dhacay Bawlos iyo Silas, 30 markaasuu dibadda u soo saaray, oo ku yidhi, Sayidyadow, maxaa igu waajib ah inaan yeelo inaan ku badbaado?
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-12.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-12.jpg?direct&}}
 
 
 Paul answered, “Believe in Jesus, the Master, and you and your family will be saved.” Then Paul baptized the jailer and his whole family, and they celebrated together.
@@ -112,7 +112,7 @@ Paul answered, “Believe in Jesus, the Master, and you and your family will be 
 Kolkaasay ku yidhaahdeen, Rumayso Rabbi Ciise, waadna badbaadi doontaa, adiga iyo dadka gurigaaguba.  Oo ereyga Rabbiga ayay kula hadleen isaga iyo kuwii gurigiisa joogay oo dhan. Markaasuu wakhtiga habeenka qudhiisa iyagii kaxeeyey oo nabrahoodii ka maydhay; oo markiiba waa la baabtiisay isagii iyo dadkiisii oo dhanba.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-13.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-13.jpg?direct&}}
 
 
 The next day the leaders of the city freed Paul and Silas and asked them to leave Philippi. Paul and Silas visited Lydia and some other friends and then left the city. The Good News of Jesus kept spreading, and the Church kept growing.
@@ -121,7 +121,7 @@ The next day the leaders of the city freed Paul and Silas and asked them to leav
 Laakiin kolkii ay maalin noqotay ayaa Bawlos iyo Silas lagu yidhi ka baxa Filibiya. Kadib waxa aay booqdeen Luudiya iyo saxiibo kale oo magalada aay ku barteen kadib waay ka baxeen magaladii.  Warkii wanagsana ee Ciisana magalada ayuu aad u dhex galay dadkii mikinisadiina wey sii badanayeen.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-14.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-14.jpg?direct&}}
 
 
 Paul and other Christian leaders traveled to many cities, preaching and teaching about Jesus. They also wrote many letters to the churches to encourage and teach them about God’s New Covenant.

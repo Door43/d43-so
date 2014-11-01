@@ -4,7 +4,7 @@
 Ciise oo Biyaha Dushooda ku Dul Socday
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-01.jpg?direct&}}
 
 
 Then Jesus told the disciples to get into a boat and sail to the other side of the lake while he dismissed the crowd. After Jesus had sent the crowd away, he went up on a mountain to pray. Jesus was there all alone, and he prayed long into the evening.
@@ -13,7 +13,7 @@ Then Jesus told the disciples to get into a boat and sail to the other side of t
 Kadib Ciise waxa uu xertiisi u sheegay inay doonta fulaan oo aay bada dhanka kale ug ataalbiyaan marku dadkii iska diray, Kadib marku Ciise dadkii iska diray ayuu buur tusheeda fuulay si uu u cibaadaysto. Ciise kaligii ayuu halkaas tagay halkaasna habeenki oo dhan ayuu ku ducaysanayeey.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-02.jpg?direct&}}
 
 
 Meanwhile, the disciples’ boat was a long way from land. They were in danger, because a storm had come up and the boat was being tossed around by the waves and the wind.
@@ -22,7 +22,7 @@ Meanwhile, the disciples’ boat was a long way from land. They were in danger, 
 Isla markaasna xertii aad ayeey khatar u galeen waayo doontu wey ka fogayd dhulka waxa kale oo jiray dabeeylo iyo mawjado biyaha oo kolba doonta dhinac u waday.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-03.jpg?direct&}}
 
 
 Jesus decided to go to them, so he walked on top of the water across the lake toward the boat!
@@ -31,7 +31,7 @@ Jesus decided to go to them, so he walked on top of the water across the lake to
 Ciise waxa uu go’aansady inu iyaga u tago, kadib biyaha ayuu dulmaray isaga oo xagaa webiga ku sii socda.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-04.jpg?direct&}}
 
 
 The disciples were very afraid when they saw Jesus, because they thought they were seeing a ghost. Jesus knew that they were afraid, so he called out to them and said, “Do not be afraid. It is I!”
@@ -40,7 +40,7 @@ The disciples were very afraid when they saw Jesus, because they thought they we
 Xeertisu aad ayeey u cabsanayeen markarkay arkeen Ciise maxa yeelay waxay u haysteen inay arkaayn shaydan. Ciise wuu ogaa inay cabsanayaan kadib inta uu la hadlay ayaa waxa u ku yidhi, “ Ha cabsanina, waa anigee!”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-05.jpg?direct&}}
 
 
 Then Peter said to Jesus, “Master, if it is you, command me to come to you on the water.” Jesus told Peter, “Come!”
@@ -49,7 +49,7 @@ Then Peter said to Jesus, “Master, if it is you, command me to come to you on 
 Kadib Butros ayaa Ciise ku yidhi, “ Sayidow, hadii aad adiga tahay, I amar inaan adiga biyaha kugu imaad.” Ciise ayaa u jawabay, Butros kaalay!”.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-06.jpg?direct&}}
 
 
 So, Peter got out of the boat and started walking to Jesus on the surface of the water. But after a short distance, he turned his eyes away from Jesus and began to look at the strong wind and waves.
@@ -58,7 +58,7 @@ So, Peter got out of the boat and started walking to Jesus on the surface of the
 Kadib Butros doontii ayuu ka so degay kadib Ciise ayuu la dul socday biyaha dushiisa. Laakin marka uu in yar fogaday ayuu Ciise ka sii jeestay si uu u eego dabaysha xooga iyo mawjadaha.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-07.jpg?direct&}}
 
 
 Then Peter became afraid and began to sink. He cried out, “Master, save me!” Jesus reached out right away and grabbed him. Then he said to Peter, “O you of little faith, why did you doubt?”
@@ -67,7 +67,7 @@ Then Peter became afraid and began to sink. He cried out, “Master, save me!”
 Kadib Butros aad ayuu u cabsaday waxanu bilabay inu quuso. Wuu ooyeey, “ Sayidow, I badbaadi!” Ciise ayaa ka so saray biyihii isaga. Kadib Butros ayaa waxa uu ku yidhi, “ Aad ayuu imaankagu u yar yahay, maxaad u shakiyaaysa?”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-08.jpg?direct&}}
 
 
 When Peter and Jesus got into the boat, the wind immediately stopped. The disciples were amazed. They worshiped Jesus, saying to him, “Truly, you are the Son of God.”

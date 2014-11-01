@@ -4,7 +4,7 @@
 Boqortooyadii La Kala Qaybiyeey
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-01.jpg?direct&}}
 
 
 After David died, his son Solomon began to rule. God spoke to Solomon and asked him what he wanted most. When Solomon asked for wisdom, God was pleased and made him the wisest man in the world. God also made him very wealthy.
@@ -13,7 +13,7 @@ After David died, his son Solomon began to rule. God spoke to Solomon and asked 
 Marku dhintay Daa’uud, inankiisii Saleeban ayaa xukunkii la wareegay, Ilaahay ayaa la hadalay Saleeban oo weydiyeey waxa uu rabo.  Saleeban Ilaah wax uu weydiistay xigmad, kadibna Ilaahay aad ayuu uga raali ahaday waxanu ka dhigay ninka ugu xigmada badnaa aduunka. Ilaahay waxa kale oo uu ka dhigay nin qani ah ama tijaar ah.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-02.jpg?direct&}}
 
 
 In Jerusalem, Solomon built the Temple for which his father David had planned and gathered materials. Instead of the Tent of Meeting, people now worshiped God and offered sacrifices to him in the Temple. God came and was present in the Temple, and he lived there with his people.
@@ -22,7 +22,7 @@ In Jerusalem, Solomon built the Temple for which his father David had planned an
 Saleeban Yeruuslaam dhexdeeda ayaa waxa u ka dhisay Macbuud uu aabihiis Daa’uud qorshaynayeey inu dhiso taasi oo uu alaabadi lagu dhisii laha soo ururiyeey laakiin wuu dhintay inta aanu Macbuudka dhisin.  Dadkii waxay ku cibaadaysteen Macbuudkii cusuba xagii aay ka aadi jireen Taandhada Kulanka halkaasna waxay allabari ku bixin jireen Ilaah dartiis.  Ilaahna raali ayuu ka aha agtoodana aad ayuu ugu soo dhawaday.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-03.jpg?direct&}}
 
 
 But Solomon loved women from other countries. He disobeyed God by marrying many women, almost 1,000 of them! Many of these women came from foreign countries and brought their gods with them and worshiped them. When Solomon was old, he also worshiped their gods.
@@ -31,7 +31,7 @@ But Solomon loved women from other countries. He disobeyed God by marrying many 
 Laakiin Saleeban waxa uu jecela dumarka wadamada kale ka yimada. Ilaahay agtiisana wuu ku danbabay waayo waxa uu guursday naagoo fara badan, ku dhawaad 1,000 dumara oo qaar badan ka yimaade dhul shisheeye oo dhanaamtood sida sanamyo aay cabuudan. Marku Saleeban gaboobay waxa sido kale uu u cibadaysanayeey asanaamta aay xasaaskisu siteen.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-04.jpg?direct&}}
 
 
 God was angry with Solomon and, as a punishment for Solomon’s unfaithfulness, he promised to divide the kingdom of Israel in two after Solomon’s death.
@@ -40,7 +40,7 @@ God was angry with Solomon and, as a punishment for Solomon’s unfaithfulness, 
 Ilaahay aad ayuu ugu cadhooday Saleeban waanu ka abaal mariyeey  xadgudubku sameyeey, waxanu ugu balan qaaday inu reer Isra’’iil boqortayadooda laba u kala qaybin doono marku Saleeban dhinto.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-05.jpg?direct&}}
 
 
 After Solomon died, his son, Rehoboam, became king. Rehoboam was a foolish man. All the people of Israel came together to confirm him as king. They also complained that Solomon had made them do a lot of hard work and pay a lot of taxes.
@@ -49,7 +49,7 @@ After Solomon died, his son, Rehoboam, became king. Rehoboam was a foolish man. 
 Marku Saleeban dhintay, inankisii, Rexabcaam ayaa noqday boqorki. Rexabcaam wuxu ahaa mid doqona. Dadka reer Israa’iil oo dhan waxay isugu yimadeen inay cadeyaan boqornimadiisa ama aay calema saraan isaga. Waxa kale oo aay aad uga cawdeen in aabihii Saleeban dadka ku ammray inay shaqo adag qabtaan oo aay cashuur badan bixiyaan.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-06.jpg?direct&}}
 
 
 Rehoboam answered foolishly and told them, “You thought my father Solomon made you work hard, but I will make you work harder than he did, and I will punish you worse than he did.”
@@ -58,7 +58,7 @@ Rehoboam answered foolishly and told them, “You thought my father Solomon made
 Rexabcaam waxa uu ugu jawaabay si doqonima ah dadkii, “Waxaad u malaynaysiin in aabahay Saleeban shaqo badan idin diray laakiin aniga ayaa shaqo tii hore ka adag idiin diri, oo aadna waan idin ciqaabi sidii aabahay mid ka daran.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-07.jpg?direct&}}
 
 
 Ten of the tribes of Israel rebelled against Rehoboam. Only two tribes remained faithful to him. These two tribes became the kingdom of Judah.
@@ -67,7 +67,7 @@ Ten of the tribes of Israel rebelled against Rehoboam. Only two tribes remained 
 Toban ka mid aha qabilaadii reer Israa’iil ayaa ka so hor jeestay Rexabcaam. Laba qudhina waxay dacad u noqdeen isaga. Labada qabiil ee u so hadhay waxa noqdeen boqortoyaadi Yahuuda..
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-08.jpg?direct&}}
 
 
 The other ten tribes that rebelled against Rehoboam made a man named Jeroboam their king. They set up their kingdom in the northern part of the land and were called the kingdom of Israel.
@@ -76,7 +76,7 @@ The other ten tribes that rebelled against Rehoboam made a man named Jeroboam th
 Tobankii qabiil ee ka so horjeestay Rexabcaam waxa aay boqornimo u magacabeen nin la odhan jiray Yaaraabcaam. Waxanay boqortoyadoodi dejiyeen waqooyiga dhulka lagu magacabay boqortoyada Israa’iil.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-09.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-09.jpg?direct&}}
 
 
 Jeroboam rebelled against God and caused the people to sin. He built two idols for his people to worship instead of worshiping God at the Temple in the kingdom of Judah.
@@ -85,7 +85,7 @@ Jeroboam rebelled against God and caused the people to sin. He built two idols f
 Yaaraabcaam waxa uu aad uga so horjeestay Ilaah oo waxa uu noqday danbiile dadkii uu maamulayayna danbi ku riday. Waxa uu dhisay laba sanam oo uu ugu tala galay inay dadku cabuudan xagay Ilaah ka cabuudii lahayen taasi uu ka  taalay Mabuudka boqortoyada Yahuuda.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-10.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-10.jpg?direct&}}
 
 
 The kingdoms of Judah and Israel became enemies and often fought against each other.
@@ -94,7 +94,7 @@ The kingdoms of Judah and Israel became enemies and often fought against each ot
 Boqortoyada Yahuuda iyo boqortoyada Israa’iil waxay noqdeen cadawo iska so hor jeeda kuwasiina way dagalami jireen had iyo goorba.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-11.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-11.jpg?direct&}}
 
 
 In the kingdom of Israel, all the kings were evil. Many of these kings were killed by other Israelites who wanted to become king in their place.
@@ -103,7 +103,7 @@ In the kingdom of Israel, all the kings were evil. Many of these kings were kill
 Boqortoyada Israa’iil, dhamaan boqoradoodu waxay ahayeen qaar xun. Qaar badan oo ka dirsan boqoradooda waa la dilay waayo qaar kale ayuunba rabay inay boqoro ka noqdaan oo aay badalaan ku aay dilaan.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-12.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-12.jpg?direct&}}
 
 
 All of the kings of Israel and most of the people worshiped idols which often included adultery and sometimes even child sacrifice.
@@ -112,7 +112,7 @@ All of the kings of Israel and most of the people worshiped idols which often in
 Dhamaan boqortadaa Israa’iil iyo dadka inta ugu badan waxay u cibaadaysan jireen asanaam taasina usii dheertahay macsi xatta mararka qaarkod inay ciyaalka allabarii ahaan u bixiyaan.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-13.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-13.jpg?direct&}}
 
 
 The kings of Judah were descendants of David. Some of these kings were good men who ruled justly and worshiped God. But most of Judah’s kings were evil, corrupt, and idol-worshipers. Some of the kings even sacrificed their children to false gods. The people of Judah also rebelled against God and worshiped other gods.

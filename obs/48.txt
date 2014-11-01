@@ -4,7 +4,7 @@
 Ciise oo ah Masiixii La alan Qaaday
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-01.jpg?direct&}}
 
 
 When God created the world, everything was perfect. There was no sin. Adam and Eve loved each other, and they loved God. There was no death or sickness or pain. This was the way God wanted things to be.
@@ -13,7 +13,7 @@ When God created the world, everything was perfect. There was no sin. Adam and E
 Marku Ilaahay abuuray aduunka wax kaste waxa aay aheyn si aad u ficaan. Wax denbi ah ma jirin. Waxa iyo Adam aad ayeey isku jecelayeen, Ilaahayna waay jecelayeen. Wax dhimasha ah ma jirin mana jirin xanuun iyo xumad na ma jirin. Waxa aay aheyd sidii uu Ilaahay rabay inay ahaato.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-02.jpg?direct&}}
 
 
 Satan, who was the snake in the garden, deceived Eve, and she and Adam sinned against God. Because they sinned, death, sickness, and pain all became part of life for everyone on earth.
@@ -22,7 +22,7 @@ Satan, who was the snake in the garden, deceived Eve, and she and Adam sinned ag
 Abeeso sheydaana oo beerta janada ku noolayd ayaa Xawa denbi gelisay oo iyada iyo Adamba Ilaahay hortiisa ku denbajisay. Maxaa yeeley denbigii aay galeen ayaa waxa aay qof kaste oo aduunka ah ku abuurtay xanuun, dhimasho iyo xumad.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-03.jpg?direct&}}
 
 
 Even worse, Adam and Eve's relationship with God was broken. Now, everyone is born an enemy of God because of sin. But God had a plan to fix everything that had been broken by sin.
@@ -31,7 +31,7 @@ Even worse, Adam and Eve's relationship with God was broken. Now, everyone is bo
 Xatta arinkii wuu sii xumaday xidhiidhki Ilaahay iyo Xawa iyo Adam  u dhexeyey wuu jabay. QOf kastana waxa uu ku dhasha denbi. Laakiin Ilaahay ayaa qorshe kale laha sidii uu xidhiidhkii u so celi laha.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-04.jpg?direct&}}
 
 
 God promised that one of Eve’s descendants would crush Satan’s head, and Satan would wound his heel. This meant that Satan would kill Jesus, but God would raise him to life after three days. Jesus would crush the power of Satan forever.
@@ -40,7 +40,7 @@ God promised that one of Eve’s descendants would crush Satan’s head, and Sat
 Ilaahay ayaa u balaan qaaday in faraca Xawa uu madaxa ka burburin doono Abeesada Shaydaanka, Abeesaduna aay boqonta ka dhawici doonto iyaga. Taasina waxa aay aheyd in Shaydanku uu dili doono Ciise, laakiin Ilaahay ayaa dhimashada kaaso kicin doona maalinta saddexaad. Ciise waxa uu burburin doona awooda Shaydaanka waligiisba.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-05.jpg?direct&}}
 
 
 When God destroyed the whole earth in the flood, he provided the boat as a way of salvation for those who believed in him. In the same way, though everyone deserves to be destroyed for their sins, God has provided a way of salvation for everyone who believes in Jesus.
@@ -49,7 +49,7 @@ When God destroyed the whole earth in the flood, he provided the boat as a way o
 Marku Ilaahay dhulka oo dhan uu ku saliday daad robaaba, waxa uu ku badbaadiyeey doonti nebi Nuux ku isaga rumeyeey. Hadii xaga kale laga eego, qof kasta danbiile ayuu aha waxanu u qalmayeey in la baa’biyo, laakin Ilaahay ayaa qaar badbaadiyeey si aay Ciise u rumeystan.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-06.jpg?direct&}}
 
 
 Melchizedek was a priest who blessed Abraham. Like Melchizedek, Jesus is a priest, but Jesus is the Great High Priest. Jesus offered only one sacrifice, himself. This was the only sacrifice needed to take away the sin of the whole world. Jesus took the punishment for every sin that anyone has ever committed.
@@ -58,7 +58,7 @@ Melchizedek was a priest who blessed Abraham. Like Melchizedek, Jesus is a pries
 Malkisadaq waxa uu aha Imaam barakeeyey Ibrahim. Sidaas oo kale Malkisadaq, waxa imaam u aha Ciise, laakin Ciise waxa weeye imaamka ugu sareeya. Ciise waxa uu nagu cawiyeey in Isaga lagu allabaryo, naftiisa. Tani waxa aay aheyd allabariga qudhee loo bahana in aduunka lagu badbaadiyo. Ciise waxa uu madax ku qaatay ciqaabta  qof kaste la marin laha.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-07.jpg?direct&}}
 
 
 God told Abraham, “Through you, all the people groups of the earth will be blessed.” Jesus was a descendant of Abraham. All the people groups of the earth are blessed through Jesus, because everyone who believes in him becomes one of God’s chosen people, a spiritual descendant of Abraham.
@@ -67,7 +67,7 @@ God told Abraham, “Through you, all the people groups of the earth will be ble
 Ilaahay waxa uu Ibrahim u sheegay, “ Adiga dartaa dadka aduunka ku nool waan barakeyey.” Ciise waxa u aha faracii Ibrahim. Dadka aduunka ku nool oo dhan Ciise dartiis ayaa loo barakeyey maxa yeelay qof ka isaga rumeysta waxa uu noqonaya miud Ilaahay doortay, kaasi oo noqon doona faraca ruuxda Ibrahim.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-08.jpg?direct&}}
 
 
 God provided a lamb for Abraham to sacrifice instead of his son, Isaac. God also provided another lamb to sacrifice instead of the whole world. God provided Jesus, the Lamb of God. We all deserve to die for our sins! But God provided Jesus as a sacrifice to die in your place.
@@ -76,7 +76,7 @@ God provided a lamb for Abraham to sacrifice instead of his son, Isaac. God also
 Ilaahay waxa uu u keenay Ibrahim neef si uu ugu allabaryo xagii uu inankisa ugu allabaryi laha. Ilaahay waxa kale  oo soo diray allabari aduunka oo dhan kaasina waxa uu aha Ciise. Dhamaanteen waxa aan u qalanay inan denbigee laakin waxa uu Ilaahay ino soo diray inu Ciise u dhinto arimaheena.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-09.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-09.jpg?direct&}}
 
 
 When God sent the last plague on Egypt, each Israelite family needed to kill a perfect lamb and spread the blood around their doors. When God saw the blood, he passed over their houses and did not kill their firstborn sons. This is called the Passover.
@@ -85,7 +85,7 @@ When God sent the last plague on Egypt, each Israelite family needed to kill a p
 Marku Ilaahay balaayada u soo diray Masar, waxa uu Ilaahay ku amray qof kaste oo Israa’iiliyu inu qalo need dhiigana mariya albaabadooda. Marku Ilaahay arkay dhiigii waxaba kama dili dadkii oo aay aheyd inay curadadoodu dhintan. Tani waxa aay aheyd kormarkii.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-10.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-10.jpg?direct&}}
 
 
 Jesus is our Passover Lamb. He was perfect and sinless and was killed at the time of the Passover Feast. When anyone believes in Jesus, the blood of Jesus takes away that person’s sin, and God’s punishment passes over him.
@@ -94,7 +94,7 @@ Jesus is our Passover Lamb. He was perfect and sinless and was killed at the tim
 Ciise waxa uu aha dhigii kormarkayga. Waxa uu aha bila denbi waxana la dilay mar loo dabaal degayeey Kormarka Yahuuda. Marku qof rumeysan yahay Ciise, dhiiga Ciise ayaa denbiga ka meydha, taasina waxa ay ka dhigan tahay Ilaahay aaya qofkaas ciqaaba ka dul qaada.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-11.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-11.jpg?direct&}}
 
 
 God made a covenant with the Israelites who were his chosen people. In God’s New Covenant, anyone from any people group can become part of God’s chosen people by believing in Jesus.
@@ -103,7 +103,7 @@ God made a covenant with the Israelites who were his chosen people. In God’s N
 Ilaahay waxa uu axdi la galay dadka reer Israa’iil  oo ah dadkiisa uu doortay. Axdiga cusub ee Ilaahay waxa so geli kara qof kaste iyo qoomiyad kaste oo rumeysan Ciise.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-12.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-12.jpg?direct&}}
 
 
 Moses was a great prophet who proclaimed the Word of God. Like Moses, Jesus is a prophet, but Jesus is the greatest prophet. He is the Word of God.
@@ -112,7 +112,7 @@ Moses was a great prophet who proclaimed the Word of God. Like Moses, Jesus is a
 Muuse waxa uu aha nebi aad u sareeya oo dacawada Ilaahay baafinayeey. Sidii Muuse oo kale, Ciise waxa uu aha nebi laakiin waxa uu aha nebiga nebiyada ugu sareeya. Waxa laga abuuray isaga ereyga Ilaahay.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-13.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-13.jpg?direct&}}
 
 
 God promised David that the Messiah would be one of his descendants. Jesus, the Messiah, was that special descendant of David.
@@ -121,7 +121,7 @@ God promised David that the Messiah would be one of his descendants. Jesus, the 
 Ilaahay waxa uu Daa’uud ugu balan qaaday in Masiix uu noqon doona mid faraciisa ka dhasha. Ciise Masiix waxa uu ah mid ka yimid faraca nebi Daa’uud.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-14.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-14.jpg?direct&}}
 
 
 Like David, Jesus is a king, but Jesus is the king of the universe! He will come again and rule his Kingdom with justice and peace, forever.

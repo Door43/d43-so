@@ -4,7 +4,7 @@
 Ciise oo Quudiyeey Shan kun oo Qof
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-01.jpg?direct&}}
 
 
 Jesus sent his disciples to preach and teach. When they returned, they told Jesus what they had taught and done. Then Jesus invited them to come with him to a quiet place to rest for a while. So, they got into a boat and left.
@@ -13,7 +13,7 @@ Jesus sent his disciples to preach and teach. When they returned, they told Jesu
 Ciise ayaa waxa uu xertiisii u diray inay dadka wacdiyaan oo aanay wax baran. Markay soo laabteen, waxay Ciise u sheegen waxa aay dadka soo bareen iyo wixii aay shaqo soo subeyeenba. Kadib Ciise aay ku macsuumay xertiisi inay isaga raacan si aay meel yar oo degan aay ugu nastaan. Kadib, doon ayeey raaceen oo meeshi ayeey ka tageen.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-02.jpg?direct&}}
 
 
 But there were many people who saw Jesus and the disciples leave. They ran along the shore of the lake to get to the other side ahead of them. When Jesus and the disciples arrived, they were greeted by great crowds of people.
@@ -22,7 +22,7 @@ But there were many people who saw Jesus and the disciples leave. They ran along
 Laakiin waxa jiray dad badan oo arkayayeey marka Ciise iyo xertiisu tagaayeen. Dadki xagaa kale ee biyaha ayeey u carareen si aay uga sii horeyaan Ciise iyo xertiisa.  Markay yimaadeen xagee kale waxa kasii horeeyey dad badan oo salaamay iyaga.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-03.jpg?direct&}}
 
 
 The crowd had over 5,000 men in it, not counting the women and children. Jesus felt great kindness towards the people. To Jesus, these people were like sheep without a shepherd. So he taught them and healed their sick.
@@ -31,7 +31,7 @@ The crowd had over 5,000 men in it, not counting the women and children. Jesus f
 Dad fara badan oo gaadha ilaa 5,000 oo nin oo aan dumarka iyo caruurtu tiro laheyn. Ciise waxa uu dareemay naxariis fara badan oo dadka. Ciise waxa uu u arkayay dadka, xayn adhiya oo aan adhi jire la soconin. Laakiin iyaga waxbu baray kuwii xanuusanayna wuu da weeyey.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-04.jpg?direct&}}
 
 
 As it got later in the evening, the disciples told Jesus, “It is late and there are no towns nearby. Send the people away so they can go get something to eat.”
@@ -40,7 +40,7 @@ As it got later in the evening, the disciples told Jesus, “It is late and ther
 Markay gaadhay habeenki, ayaa xertii Ciise ku yidhaahdeen, “ Waa wakhti danbe mana jirto magaalo inagu dhow. Dadka inaga dir si aay meelahaas was uga soo cunaan
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-05.jpg?direct&}}
 
 
 But Jesus said to them, “You give them something to eat!” The disciples responded, “How can we do that? We only have five loaves of bread and two fish.”
@@ -49,7 +49,7 @@ But Jesus said to them, “You give them something to eat!” The disciples resp
 Laakiin Ciise ayaa xeertiisi usheegay, “ Idinku wax aay cunaan siiya!” Xeertina waxay ugu jawabeen, “ Sidee ayaa sidaas u sameyn karna? waxan haysana shan rootiya iyo laba xabo kaluune.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-06.jpg?direct&}}
 
 
 Jesus called the crowd to him and told his disciples to have them sit down on the grass, in groups of fifty people each.
@@ -58,7 +58,7 @@ Jesus called the crowd to him and told his disciples to have them sit down on th
 Ciise ayaa dadkii isgu yeedhay waxanu xertiisi ku ammray inay dadka fadhiisiyaan meel doog leh koox koox kontankii qof ba.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-07.jpg?direct&}}
 
 
 Then Jesus took the five loaves of bread and the two fish, looked up to heaven, and blessed the food.
@@ -67,7 +67,7 @@ Then Jesus took the five loaves of bread and the two fish, looked up to heaven, 
 Kadib Ciise ayaa sara u qaaday shanti xabo ee rootiga aheyd iyo labadi xabe kaluunka, kadib samada ayuu eegay Ilaahay ayuu baryeey si uu cuntada u barakeyo.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-08.jpg?direct&}}
 
 
 Jesus then started breaking the bread and fish. He gave the pieces to his disciples to give to the people. The disciples kept passing out the food, and it never ran out! All the people ate and were satisfied.
@@ -76,7 +76,7 @@ Jesus then started breaking the bread and fish. He gave the pieces to his discip
 Ciise kadib waxa uu bilabay inu kala jajabiyo kaluunki iyo rootidii. Kadib xertisa ayuu ugu dhibay si aay dadka ugu qaybiyaan. Xertiisu ddadka yuunbay u qaybinayeen cuntadina wey dhamaan weyday. Dadkii oo dhan wey cuneen ilaa aay ka dhargeen.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-09.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-09.jpg?direct&}}
 
 
 The disciples even picked up twelve baskets full of leftover food that had not been eaten. All the food came from the five loaves of bread and two fish.

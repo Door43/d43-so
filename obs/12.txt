@@ -4,7 +4,7 @@
 Baxniintii
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-01.jpg?direct&}}
 
 
 The Israelites were very happy to leave Egypt. They were no longer slaves, and they were going to the Promised Land, the land God had promised to give to Abraham's descendants! The Egyptians gave the Israelites whatever they asked for, even gold and silver and other valuable things. Some people from other nations believed in God and joined the Israelites as they left Egypt.
@@ -13,7 +13,7 @@ The Israelites were very happy to leave Egypt. They were no longer slaves, and t
 Israa’iiliyintu aad ayeey ugu farxeen inay ka tagan Masar. Waxay rabeen inay adoonsiga ka baxan oo aay tagan dhulki loogu balan qaaday, dhulku Ilaah ugu balan qaaday Ibrahin iyo fariicisa. Masaridii wax kaste oo Israa’iiliyintu aay way diisteen way siiyeen, xatta dahab iyo silfar iyo wax kaste oo qimo leh. Dadkii kale ee Masar ku noola ee amminsan Ilaah iyaguna waxay raceen Israa’iiliyinta si aay Masar uga baxan.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-02.jpg?direct&}}
 
 
 God led them by going ahead of them in a tall cloud pillar during the day, which became a tall fire pillar at night. God was always with them and guided them as they traveled. All they had to do was follow him.
@@ -22,7 +22,7 @@ God led them by going ahead of them in a tall cloud pillar during the day, which
 Ilaah ayaa Israa’iiliyinta hogaminayeey oo daruur hadhle ayaa maalinti cadceeda ka ilaalinysay, habeenkina iyada ayaa iftiin u noqonaysay. Ilaah ayaa iyaga la jiray oo hogaminayay xatta intay si socdeen safarkooda oo dhan. Waxa laga rabay oo qudha inay iagu Ilaah adeecaa..
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-03.jpg?direct&}}
 
 
 After a short time, Pharaoh and his people changed their minds and wanted the Israelites to be their slaves again. God did this to get glory for himself by showing that he is more powerful than Pharaoh and his gods.
@@ -31,7 +31,7 @@ After a short time, Pharaoh and his people changed their minds and wanted the Is
 Wakhti yar kadib, Fircoon iyo dadkisii fikirkoodi way badaleen oo waxay rabeen in wali Israa’iiliyuntu ahato addoomahooda mar labaad. Ilaah wuxu tan u sameynayeey inu tuso inu isagu ka awood weyn yahay  Fircoon iyo asnaabta uu cabuudayo.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-04.jpg?direct&}}
 
 
 So Pharaoh and his army chased after the Israelites to make them their slaves again. When the Israelites saw the Egyptian army coming, they realized they were trapped between Pharaoh’s army and the Red Sea. They were very afraid and cried out, “Why did we leave Egypt? We are going to die!”
@@ -40,7 +40,7 @@ So Pharaoh and his army chased after the Israelites to make them their slaves ag
 Kadib Fircoon iyo ciidankisii ayaa ka daba tegay Israa’iiliynti si aay mar labad uga dhigaan addoomahoda. Markay Israa’iiliyintii arkeen ciidanki Masarida oo so socda, waxay ogaadeen in ku xayiran yihiin bada cas iyo ciida fircoon dhaxdooda. Aad ayeey u cabsadeen waanay ooyeen, “ Maxan masar uga nimid? Halkan ayaan ku dhiman doona!”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-05.jpg?direct&}}
 
 
 Moses told the people, “Do not be afraid! God will fight for you today and save you.” Then God told Moses, “Tell the people to move toward the Red Sea.”
@@ -49,7 +49,7 @@ Moses told the people, “Do not be afraid! God will fight for you today and sav
 Muuse ayaa dadki ku yidhi, “ Ha cabsanina! Ilaah ayaa maanta idinla jira idina badbaadin doona.” Ilaah ayaa Muuse usheegay, “ inu dadka ku ammro inay xagga bada cas aadaan.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-06.jpg?direct&}}
 
 
 The cloud pillar then moved between the Israelites and the Egyptians so the Egyptians could not see the Israelites.
@@ -58,7 +58,7 @@ The cloud pillar then moved between the Israelites and the Egyptians so the Egyp
 Darurti hadhka lahayd ayaa waxay kala dhex gashay Israa’iiliyinta iyo Masarid dhexdooda kadibna Masaridu way arki wayeen Israa’iilintii.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-07.jpg?direct&}}
 
 
 God told Moses to raise his hand over the sea and divide the waters. The wind made the water in the sea separate to the left and the right, making a path through the sea.
@@ -67,7 +67,7 @@ God told Moses to raise his hand over the sea and divide the waters. The wind ma
 Ilaah ayaa Muuse u sheegay inu gacantiisa sare u qaado si uu biyaha bada u kala qaybiyo. Dabayshii ayaa biyihi u kala kaxaysay midig iyi bidix si aay dariiq uga dilaaco bada.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-08.jpg?direct&}}
 
 
 The Israelites marched through the sea on dry ground with a wall of water on either side of them.
@@ -76,7 +76,7 @@ The Israelites marched through the sea on dry ground with a wall of water on eit
 Israa’iiliyintii ayaa bada dhex maray wadad ka dilaacday iyaga oo biyu labada darbi ka xigaan.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-09.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-09.jpg?direct&}}
 
 
 Then the cloud lifted and the Egyptians saw the Israelites escaping. They decided to chase after them.
@@ -85,7 +85,7 @@ Then the cloud lifted and the Egyptians saw the Israelites escaping. They decide
 Daruurti u kala dhexeysay  Israa’iiliyinta iyo Masariida ayuu Ilaah sara u qaadau si aay isku arkaan. Masaridina waay so yaaceen si aay u qab qabtan  Israa’iiliyinta.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-10.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-10.jpg?direct&}}
 
 
 So the Egyptians followed the Israelites onto the path through the sea, but God threw the Egyptians into a panic and caused their chariots to get stuck. They shouted, “Run away! Yahweh is fighting for the Israelites!”
@@ -94,7 +94,7 @@ So the Egyptians followed the Israelites onto the path through the sea, but God 
 Kadibna masaridi ayaa so daba gashay Israa’iiliyinti bada dhaxdeeda, laakiin Ilaah ayaa cabsi ku riday Masarida oo waxay dhex istageen bada dhaxdeeda. Waxayna ku qayliyeen, “ Yaaca! Ilaah ayaa u dagalamaya Israa’iiliyinte!”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-11.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-11.jpg?direct&}}
 
 
 After the Israelites all made it safely to the other side, God told Moses to stretch out his hand again. When he obeyed, the water fell on the Egyptian army and returned to its normal place. The whole Egyptian army drowned.
@@ -103,7 +103,7 @@ After the Israelites all made it safely to the other side, God told Moses to str
 Markay Israa’iilinti si nabad gelo ku jirto uga wada talabeen bada dhinaceeda kale, ayuu Ilaah Muuse u sheegay inu gacantisaa kala bixiyo mar labaad. Wuuna adeecay Ilaah, kadibna halkaas ayeey Masaridii ku baabeen oo badina caadi noqtay iyagiina badi aay ku liqday.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-12.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-12.jpg?direct&}}
 
 
 When the Israelites saw that the Egyptians were dead, they believed in God and trusted that Moses was a prophet of God.
@@ -112,7 +112,7 @@ When the Israelites saw that the Egyptians were dead, they believed in God and t
 Markay  Israa’iiliyintii arkeen masaridii oo dhimatay, Ilaah ayeey rumeeysteen waxany amiineen Muuse inu yahay nabigi Ilaah.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-13.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-13.jpg?direct&}}
 
 
 The Israelites also rejoiced with much excitement because God had saved them from death and slavery! Now they were free to serve God. The Israelites sang many songs to celebrate their new freedom and to praise God for saving them.
@@ -121,7 +121,7 @@ The Israelites also rejoiced with much excitement because God had saved them fro
 Israa’iiliyuntu waxay aad ugu farxeen sidu Ilaah u badbaadiyeey dhimashadii bada kana saray addoonsigii aay ku dhex jireen. Haada waa la fasaxay waxayna ahayd wakhtigii aay Ilaah cabudii laheeyn. Israa’iiliyintii waxay bilabeen inay heeso Ilaah ammaana qaadan oo aay farxad ku dabaal dagan muujinaysa xornimadooda iya sida Ilaah u badbadiyeey iyaga.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-14.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-14.jpg?direct&}}
 
 
 God commanded the Israelites to remember his victory over the Egyptians and their deliverance from slavery by celebrating the Passover every year. They celebrated by killing a perfect lamb, eating it with unleavened bread, and celebrating how God had saved them from the Egyptians.

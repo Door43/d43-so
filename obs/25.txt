@@ -4,7 +4,7 @@
 Shaydan oo Damcay Inu Ciise Denbaajiyo
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-01.jpg?direct&}}
 
 
 Immediately after Jesus was baptized, the Holy Spirit led him out into the desert, where he fasted for forty days and forty nights. Then Satan appeared and tempted him.
@@ -13,7 +13,7 @@ Immediately after Jesus was baptized, the Holy Spirit led him out into the deser
 Isla markiiba markii Ciise la biya geliyeey, Ruuxda Quduuska ayaa u kaxaysa xagaas iyo saxaraha halkaasna waxa uu soomana afartan cisho iyo afartan habeen. Shaydan aayaa u soo muqday oo damcay inu tijaabiyo Ciise intii uu soomana.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-02.jpg?direct&}}
 
 
 Satan said, “If you are the Son of God, turn these rocks into bread so you can eat!”
@@ -22,7 +22,7 @@ Satan said, “If you are the Son of God, turn these rocks into bread so you can
 Shaydankii ayaa ku yidhii, “ Hadii aad tahay wiilka Ilaahay, dhagaxan ka dhig rooti si aad u cunto!”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-03.jpg?direct&}}
 
 
 Jesus replied, “It is written in God’s Word, ‘Man does not live only on bread, but on every word that God speaks!’”
@@ -31,7 +31,7 @@ Jesus replied, “It is written in God’s Word, ‘Man does not live only on br
 Ciise ayaa ugu jawabay, “Qoraalka Ilaahay ayeey ku qoran tahay, ‘ qodka bini aadanku uma noola rooti oo qudha, laakiin wax kaste oo Ilaahay ku hadlay ayuu ku nool yahay!’”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-04.jpg?direct&}}
 
 
 Then Satan took Jesus to the highest point on the Temple and said, “If you are the Son of God, throw yourself down, for it is written, ‘He will command his angels to catch you so your foot does not hit the ground.’”
@@ -40,7 +40,7 @@ Then Satan took Jesus to the highest point on the Temple and said, “If you are
 Kadin Shaydaanki ayaa Ciise meel sare saaray meesha ugu dheer macbuudka Ilaahay waxanu ku yidhi, “ Hadii aad tahay Wiilka Ilaahay halkan iska tuur, waa sida aay u qoran tahay, “ Ilaahay waa ka ku ammray malaa’iigtiisa inay ku qabtaan oo cagtaadu tabanin dhulka.’”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-05.jpg?direct&}}
 
 
 But Jesus replied, “It is also written in God’s Word, ‘Do not test the Lord, your God.’”
@@ -49,7 +49,7 @@ But Jesus replied, “It is also written in God’s Word, ‘Do not test the Lor
 Laakin Ciise ayaa u jawabay, “ waxay sido kale ku qoran tahay qoraalka Ilaahay, “ Ha tijabiniina Rabbiga, Ilaahina ah.’”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-06.jpg?direct&}}
 
 
 Then Satan showed Jesus all the kingdoms of the world and all their glory and said, “I will give you all this if you bow down and worship me.”
@@ -58,7 +58,7 @@ Then Satan showed Jesus all the kingdoms of the world and all their glory and sa
 Ka dib shaydaankii ayaa Ciise  tusay dhamaan boqortooyinka aduunka oo dhan iyo wixi nimco dul taalay waxanu ku yidhi, “ Aadiga ayaan ku siin doona dhamaan waxan oo dhan hadii aad anig ii su judo oo aad aniga I cabuudo.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-07.jpg?direct&}}
 
 
 Jesus replied, “Get away from me, Satan! It is written in God’s Word, ‘Worship only the Lord your God and only serve him.’”
@@ -67,7 +67,7 @@ Jesus replied, “Get away from me, Satan! It is written in God’s Word, ‘Wor
 Ciise ayaa ugu jawabay, “Aniga iga tagm Shaydan! Qoraalka Ilaahaay ayeey ku qoran tahay, ‘U cibaadaysta Rabbiga keligiisa isagana u adeega.’”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-08.jpg?direct&}}
 
 
 Jesus did not give in to Satan's temptations, so Satan left him. Then angels came and took care of Jesus.

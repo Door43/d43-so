@@ -4,7 +4,7 @@
 Axdigii Ilaahay La galay Daa’uud
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-01.jpg?direct&}}
 
 
 Saul was the first king of Israel. He was tall and handsome, just like the people wanted. Saul did well at first, but he became a wicked man who did not obey God, so God chose a different man who would one day be king in his place.
@@ -13,7 +13,7 @@ Saul was the first king of Israel. He was tall and handsome, just like the peopl
 Sawlos waxa uu ah boqorka Israa’iiliyinta, Waxa uu ah nin dheer oo qurux badan, sidaa aay dadku u rabeen, Sawlos waxa ficaan ayuu bilawgii sameeyey laakiin waxa uu marki danbe noqday nin xun oo aan Ilaah cabuudin, kadibna Ilaah waxa uu doortay nin kale oo maalin kale noqodoona boqor badalaa Sawlos.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-02.jpg?direct&}}
 
 
 This man’s name was David. He was a shepherd from the town of Bethlehem. While watching the sheep, David had killed both a lion and a bear which had attacked the sheep. David was a humble and righteous man who trusted and obeyed God.
@@ -22,7 +22,7 @@ This man’s name was David. He was a shepherd from the town of Bethlehem. While
 Ninkan magaciisu waxa uu aha Daa’uud, Waxanu aha nin xoolo raacata ah magalafa Beytulaxam, Isaga oo adhiga la jooga, ayaa waxa u dilay libaax iyo yeey so weraray adhigii uu la joogay, Daa’uud waxa uu ah nin afgaaban oo xaqa ku dhaqma oo Ilaah adeeca amminayna.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-03.jpg?direct&}}
 
 
 David was also a great soldier and leader. When David was still a young man, he fought against a giant named Goliath. Goliath was a trained soldier, very strong, and almost three meters tall! But God helped David kill Goliath and save Israel.
@@ -31,7 +31,7 @@ David was also a great soldier and leader. When David was still a young man, he 
 Daa’uud waxa kale oo uu aha askari ficaan iyo hogaamiye. Intii uu yara Daa’uud  waxa uu la dagalamay  Goli’ad. Goli’ad waxa uu aha askari tababaran ,oo aad u xoog badan xoogna u dheer ilaa saddex mitir. Laakiin Ilaahay ayaa ka cawiyeey inu Daa’uud dilo Goli’ad oo uu Israa’iil badbaadiyo.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-04.jpg?direct&}}
 
 
 Saul became jealous of David and tried many times to kill him. One day Saul was looking for David so he could kill him. Saul went into the same cave where David was hiding but did not see him. Instead of killing Saul, David cut off a piece of his clothes to prove to Saul that he would not kill him to become king.
@@ -40,7 +40,7 @@ Saul became jealous of David and tried many times to kill him. One day Saul was 
 Sawlos ayaa waxa uu noqday xaasid ku hinaasay Daa’uud iskuna dayeey iny diloo isaga mararbadan. Maalin ayaa Sawlos waxa uu raadinayay inu dilo Daa’uud, Sawlos ayaa waxa uu tagay meel god’ah oo Daa’uud uu isku qarinayay lakiin mu arkin, Laakiin Daa’uud mu dilin Saul ee maradiisa ayuu in yar ka jaray waxanu tusay inanu Daa’uud rabin inu noqdo boqor dilana isaga.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-05.jpg?direct&}}
 
 
 Eventually, Saul died in battle, and David became king of Israel. He was a good king, and the people loved him. God blessed David and made him successful. David fought many battles and God gave him victory. David conquered Jerusalem and made it his capital. During David’s reign, Israel became powerful and wealthy.
@@ -49,7 +49,7 @@ Eventually, Saul died in battle, and David became king of Israel. He was a good 
 Ugu danbeyntiina, Sawlos waxa lagu dilay dagaal sidaas ayuu Daa’uudna ku noqday boqorkii Israa’iil, waxa uu noqoday boqor fiican, dadkuna aad ayeey u jecelaadeen, Ilaahay aay barakeyey Daa’uud waxanu guulaystay. Daa’uud dagalao fara badan ayuu galay laakiin Ilaahay guul ayuu ka raaciyeey.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-06.jpg?direct&}}
 
 
 David wanted to build a temple where everybody could worship God and offer him sacrifices. For about 400 years, the people had been worshiping God and offering sacrifices to him at the Tent of Meeting that Moses had built.
@@ -58,7 +58,7 @@ David wanted to build a temple where everybody could worship God and offer him s
 Daa’uud waxa uu rabay inu dhiso macbuud Ilaahay lagu cabuudo oo qof kasta ku cibaadaysan karo oo aay ku allabaryan. 400 boqol oo sanno muddo ku dhow, dadku waxay Ilaahay ku cabuudayeen  oo aay Ilaah bariga ku bixinayeen taandhada kulanka ee Muse dhisay.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-07.jpg?direct&}}
 
 
 God sent the prophet Nathan to David with this message, “Because you are a man of war, you will not build this house for me. Your son will build it. But, I will bless you greatly. Someone from your family will always sit on the throne of Israel, and the Messiah will be one of your descendants!” The Messiah is God’s Chosen One who would save the world from sin.
@@ -67,7 +67,7 @@ God sent the prophet Nathan to David with this message, “Because you are a man
 IIlaah wuxu Daa’uud uso diray nebi Naataan isaga oo fariin u sida waxanu ku yidhi, “ Waayo waxad Daa’uudow tahay nin dagaal, macbuudkan aniga ima dhisaysid. Waxa dhisii doona wiilkaga. Laakiin aad ayaan ku barakeyn doona. Qof ka mid aha qoyskaga ayaa mar kaste fadhiisan doona kursiga talada ee reer Israa’iil, Masiixa iman doonana waxa ka mid noqon doona mid ka yimaada faracaga” Masiiixu waxa uu noqon doona mid Ilaah doorto oo badbaadiya dadka aduunka ku nool danbigooda.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-08.jpg?direct&}}
 
 
 When David heard these words, he immediately thanked and praised God because he had promised David this great honor and many blessings. The Israelites would have to wait a long time before the Messiah came, almost 1,000 years.
@@ -76,7 +76,7 @@ When David heard these words, he immediately thanked and praised God because he 
 Marku Daa’uud maqlay kalmadahaas, Isla markiiba waxa uu u mahadnaqay Ilaahay aadna uu u ammaanay maxaa yeelay Ilaa waxa uu ugu balan qaaday isaga tixgelin weyn iyo barako fara badan. Israa’iiliyintu waxa sugayeen Masiix mudo dheer, ku dhawaad 1,000 sano.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-09.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-09.jpg?direct&}}
 
 
 David ruled with justice and faithfulness for many years, and God blessed him. However, toward the end of his life he sinned terribly before God.
@@ -85,7 +85,7 @@ David ruled with justice and faithfulness for many years, and God blessed him. H
 Daa’uud sanado badan ayuu hogaamiye cadaalad iyo xaq ku dhaqma noqday oo dacaada, Ilaahna wuu barakeyey isaga.  Si kastaba ha ahaatee,  ugu danbeyntii nolashii wuu danbaabay si aad u daran Ilaahay hortiisa.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-10.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-10.jpg?direct&}}
 
 
 One day, when all of David's soldiers were out fighting, he got up from an afternoon nap and saw a beautiful woman bathing. Her name was Bathsheba.
@@ -94,7 +94,7 @@ One day, when all of David's soldiers were out fighting, he got up from an after
 Maalin, mar aay askarta Daa’uud aay ku maqnay dagaal, waxa uu ka soo toosay hurdo yar gelin danbe waxanu arkay gabadh aad u qurux badan oo qubaysanaysa, magaceedu waxa uu ah  Batshebac.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-11.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-11.jpg?direct&}}
 
 
 Instead of looking away, David sent someone to bring her to him. He slept with her and sent her back home. A short time later Bathsheba sent a message to David saying that she was pregnant.
@@ -103,7 +103,7 @@ Instead of looking away, David sent someone to bring her to him. He slept with h
 Xagii uu ka si jeedsan laha, Daa’uud waxa uu u diray in qof u keeno iyada, waanu u galmooday iyada marki danbena gurigeedi ayuu u diray.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-12.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-12.jpg?direct&}}
 
 
 Bathsheba's husband, Uriah, was one of David’s best soldiers. David called Uriah back from the battle and told him to go be with his wife. But Uriah refused to go home while the rest of the soldiers were in battle. So David sent Uriah back to the battle and told the general to place him where the enemy was strongest so that he would be killed.
@@ -112,7 +112,7 @@ Bathsheba's husband, Uriah, was one of David’s best soldiers. David called Uri
 Batshebac ninkeeda Uuriyaah waxa uu ka mid ah askarta Daa’uud ninmanka ugu fiican.  Daa’uud waxa uu Uuriyaah uga yeedhay inu dagaalka ka so baxo oo uu xaskiisa u yimado, Laakiin Uuriyaah wuu diiday inu  dagaalka ka so baxo keligi waayo askarta kale oo dhan way dagalamayeen. Kadib Daa’uud wuu ku laabtay dagalki oo  Daa’uud waxa uu ku amray ninkii ciidanka hogaaminayay inu Uuriyaah ku hagaajiyo meesha  cadawugu ku gacan sareeyo si Uuriyaah loo dilo.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-13.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-13.jpg?direct&}}
 
 
 After Uriah was killed, David married Bathsheba. Later, she gave birth to David's son. God was not pleased with what David had done, so he sent the prophet Nathan to show David his sin. David repented of his sin and God forgave him. For the rest of his life, David trusted God, even in difficult times.
@@ -121,7 +121,7 @@ After Uriah was killed, David married Bathsheba. Later, she gave birth to David'
 Marki Uuriyaah la dilay, Daa’uud waxa uu guursaday Batshebac Kadibna waxay u dhashay wiil Daa’uud. Laakin Ilaah rali kama ahayn waxa uu Daa’uud sameyeey, kadib waxa uu so diray Nebi Naataan si uu danbiga uu galay ugu sheego Daa’uud. Daa’uud aad ayuu uga xumaday daniga uu galay Ilaahna waxa uu weydistay danbi dhaaf, Ilaahna wuu cafiyeey. Intii ka hadhay nolashii Daa’uud Ilaahay ayuu amminay, xatta marka uu wakhtigu adag yahay.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-14.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-14.jpg?direct&}}
 
 
 But as punishment for David's sin, his baby boy died. There was also fighting in David’s family for the rest of his life, and David’s power was greatly weakened. Though David had been unfaithful to God, God was still faithful to his promises. Bathsheba gave birth to another son named Solomon.

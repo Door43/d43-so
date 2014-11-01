@@ -4,7 +4,7 @@
 Dhalashadii Ciise
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-01.jpg?direct&}}
 
 
 Joseph was a righteous man. When he heard that Mary was pregnant, he knew it was not his baby. He did not want to shame her, so he planned to quietly divorce her. Before he could do that, an angel appeared to him in a dream.
@@ -13,7 +13,7 @@ Joseph was a righteous man. When he heard that Mary was pregnant, he knew it was
 Yusuuf waxa uu ah nin xaq ah. Marka uu maqlay inay Maryan uur ledahay waxa uu ogaday inusan ilmahaas anu isagu dhalin. Muu rabin inu ceebeyo gabadha  laakiin waxa uu qorshaystay inu si aan la dareemin u furo. Inta aanu sidaas sameyniin ayuu malag u muuqday isaga si riyo ah Masiixa.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-02.jpg?direct&}}
 
 
 The angel said, “Joseph, do not be afraid to take Mary as your wife. What is in her is from the Holy Spirit. She will give birth to a son. Name him Jesus, because he will save the people from their sins.”
@@ -22,7 +22,7 @@ The angel said, “Joseph, do not be afraid to take Mary as your wife. What is i
 Malagii ayaa waxa uu ku yiri isgaa, “ Yusuufow,  ha ka cabsan inay  Maryan xaskagii ahaan weyso. Ilmaha aay uurka ku sida waxa weeye Ruuxdii Ilaahay. Waxay dhali doonta wiil, waxanad u bixin doonta Ciise, maxa yeelay waxa uu ka badbaadin doona dadka denbiyadooda.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-03.jpg?direct&}}
 
 
 So Joseph married her and took her home as his wife, but he did not sleep with her until she had given birth.
@@ -31,7 +31,7 @@ So Joseph married her and took her home as his wife, but he did not sleep with h
 Kadib Yusuuf waxa uu aroostay Maryan gurigiisina wuu geystay laakiin lamu seexan iyada ilaa intay ilmaha aay ka dhalaysay.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-04.jpg?direct&}}
 
 
 About the time Mary was to give birth, the Roman government told everyone to go to the town of their ancestors for a census. Joseph and Mary had to make a long journey from where they lived in Nazareth to Bethlehem because their ancestor was David whose hometown was Bethlehem.
@@ -40,7 +40,7 @@ About the time Mary was to give birth, the Roman government told everyone to go 
 Markay Maryan soo dhawatay xiligii aay ilmaha dhali lahayd, boqorkii maamulayeey Roomaniyinta ayaa qof kaste ku ammray inu qabto magaladoodii si uu iskaga so siwaan geliyo. Yusuuf iyo Maryan waxa safar dheer ku tageen meeshi aay ku noolayeen ee Nasireet  ilaa iyo Beytulaaxam waayo Yusuuf waxa uu aha faracii ka soo jeeday nebi Daa’uud ee magalada Beytulaaxam.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg?direct&}}
 
 
 When they arrived in Bethlehem, there was no place to stay. The only room they could find was a place where animals stayed. The baby was born there and his mother laid him in a feeding trough, since they did not have a bed for him. They named him Jesus.
@@ -49,7 +49,7 @@ When they arrived in Bethlehem, there was no place to stay. The only room they c
 Markay yimaadeen Beytulaaxam, ma jirin meel aay joogan. Meesha qudha ee aay joogi kareen waxay aheyd meel xoolaha lagu xareeyo. Ilmihii halkaas ayuu ku dhashay oo hoyadii Maryan waxay ku riday qabaalka xoolaha milixda loogu rido waayo ma jirin sariir lagu seexiyo ilmaha. Waxanay u bixiyeen Ciise.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-06.jpg?direct&}}
 
 
 That night, there were some shepherds in a nearby field guarding their flocks. Suddenly, a shining angel appeared to them, and they were terrified. The angel said, “Do not be afraid, because I have some good news for you. The Messiah, the Master, has been born in Bethlehem!”
@@ -58,7 +58,7 @@ That night, there were some shepherds in a nearby field guarding their flocks. S
 Isla habeenkaas waxa halkaas ka dhawa nimaan adhi jiraa oo meesha dab ku shidanayeey si aay u ilaashadan xoolahoda. Isla markaasna waxa nimankii u yimid malag dhalalaya  aad ayeey u cabsadeen waxanu ku yiri, “ Ha cabsaniina maxa yeelay waxan idin sida war wanagsan. Masiix, Sayidkii, aaya waxa uu ku dhashay Beytulaaxam!”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-07.jpg?direct&}}
 
 
 “Go search for the baby, and you will find him wrapped in pieces of cloth and lying in a feeding trough.” Suddenly, the skies were filled with angels praising God, saying, “Glory to God in heaven and peace on earth to the people he favors!”
@@ -67,7 +67,7 @@ Isla habeenkaas waxa halkaas ka dhawa nimaan adhi jiraa oo meesha dab ku shidana
 “orda oo wiilka raadiya  waxa aad ka heli doontan isaga oo marayar ku duuban oo dhex jiifa qabaalka xoolaha milixda loogu.” Isla markiba wey tageen samada waxa ka buuxay malaa’iigo Ilaahay ammanayaa, oo leh “Ilaaha samada sare iska leh ayaa ammanan oo nabadi waxay kor ahatay dadka dhulka ku nool ee la doortay!”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-08.jpg?direct&}}
 
 
 When the shepherds arrived at the place where Jesus was, they found him lying in a feeding trough, just as the angel had told them. They were very excited. Mary was very happy, too. The shepherds returned to the fields, praising God for all they had heard and seen.
@@ -76,7 +76,7 @@ When the shepherds arrived at the place where Jesus was, they found him lying in
 Markay adhi jirtii aay meeshi tageen meeshi uu Ciise joogay, waxa aay ka dhex helen isaga oo dhex jiifa qabaalka xoolaha milixda loogu rido sida uu malagu u sheegay. Aad ayeey u farxeen. Maryan aad ayeey u faraxday sido kale. Adhi jirtii dib ayeey u laabteen iyaga oo Ilaahay ammaanaya waxa aay maqleen iyo waxii aay arkeenba.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-09.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-09.jpg?direct&}}
 
 
 Some time later, wise men from countries far to the east saw an unusual star in the sky. They realized it meant a new king of the Jews was born. So, they traveled a great distance to see this king. They came to Bethlehem and found the place where Jesus was living.
@@ -85,7 +85,7 @@ Some time later, wise men from countries far to the east saw an unusual star in 
 Wakhti yar ka bacdi niman xigmad leg oo ka yimid dhanka bari ee fog ayaa waxay arkeen xidig cirka korkiisa.  Waxay ogaadeen in boqork cusub ka dhex dhashay Yuhuusda dhexdood. Kadib  waxayka soo so baxeen meel fog si aay u soo eegan boqorka cusub. Beytulaxaam ayeey yimaaden oo waxa aay heleen meeshi Ciise ku noola.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-10.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-10.jpg?direct&}}
 
 
 When they saw Jesus with his mother, they bowed down and worshiped him. They gave Jesus expensive gifts. Then they returned home.

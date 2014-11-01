@@ -4,7 +4,7 @@
 Dhalashdii Yaxye
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-01.jpg?direct&}}
 
 
 More than 400 years had passed since God had spoken to his people. Then an angel appeared to an old priest named Zechariah. He and his wife, Elizabeth, were godly people, but she was never able to have any children.
@@ -13,7 +13,7 @@ More than 400 years had passed since God had spoken to his people. Then an angel
 In ka badan 400 boqol oo sano ayeey dhaaftay xiligii uu Ilaah la hadlii jiray dadkiisa. Kadib nin imaama oo aad u weyn ayuu malagu u yimid ninkana waxa la odhan jiray Sakariye. Xaskisa Elisbeed iyo isagu waxay ahayeen dad Ilaahay rumaysan laakiin waxa ciyaala may lahayn.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-02.jpg?direct&}}
 
 
 The angel said to Zechariah, “Your wife will have a son. You will name him John. He will be the great prophet that comes before the Messiah!” Zechariah responded, “My wife and I are too old to have children! How will I know this will happen?”
@@ -22,7 +22,7 @@ The angel said to Zechariah, “Your wife will have a son. You will name him Joh
 Mala’gii ayaa Sakariye ku yidhi, “ Xaskagu waxay heli doonta wiil. Waxa aad u bixisa yaxye. Waxa uu noqon doona nabi aad u sareeya inta anu Masiix iman.” Sakariye ayaa u jawabay oo ku yidhi, “ Aniga iyo xaskaygu aad ayaan u da weynahay! Sidee ayaan ku ogan kara inay tani dhacayso?”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-03.jpg?direct&}}
 
 
 The angel answered, “I was sent by God to bring you this good news. Because you did not believe me, you will not be able to speak until the child is born.” Immediately, Zechariah was unable to speak. Then the angel left. Zechariah returned home, and his wife became pregnant.
@@ -31,7 +31,7 @@ The angel answered, “I was sent by God to bring you this good news. Because yo
 Malaa'igtii baa u jawaabtay oo ku tidhi, Anigu waxaan ahay Jibriil oo Ilaah hortiisa istaaga. Waxaa la ii soo diray inaan kula hadlo oo aan warkan wanaagsan kuu keeno. Bal eeg, waad aamusnaan doontaa, mana hadli kari doonto, ilaa maalinta waxyaalahan dhici doonaan, waayo, waad rumaysan weyday hadalladayda wakhtigooda la oofin doono. Kolkii maalmihii shuqulkiisii wadaadnimadu dhammaadeen ayuu wuxuu tegey gurigiisii. Xaaskisina uur ayeey qaaday.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-04.jpg?direct&}}
 
 
 When Elizabeth was six months pregnant, the same angel appeared to Elizabeth’s relative, whose name was Mary. She was a virgin and was engaged to a man named Joseph. The angel said, “You will become pregnant and give birth to a son. You are to name him Jesus and he will be the Messiah.”
@@ -40,7 +40,7 @@ When Elizabeth was six months pregnant, the same angel appeared to Elizabeth’s
 Bishii lixaad Ilaah baa malaa'ig Jibriil u soo diray magaalada Galili oo Naasared la odhan jiray. ilaa gabadh bikrad ah oo u doonanayd nin la odhan jiray Yuusuf oo dhashii Daa'uud ahaa; gabadhana waxaa la odhan jiray Maryan.  Malaa'igtii baa u soo gashay, oo waxay ku tidhi, Nabad, adigoo nimcaysan, Rabbiga ayaa kula jira. Malagii ayaa ku yidi, “ Bal eeg, waad uuraysan doontaa, oo wiil baad umuli doontaa, magiciisana waxaad u bixin doontaa Ciise.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-05.jpg?direct&}}
 
 
 Mary replied, “How can this be, since I am a virgin?” The angel explained, “The Holy Spirit will come upon you, and the power of God will cover you. So the baby will be holy, the Son of God.” Mary believed and accepted what the angel said.
@@ -49,7 +49,7 @@ Mary replied, “How can this be, since I am a virgin?” The angel explained, �
 Kolkaasaa Maryan waxay malaa'igtii ku tidhi,  “Sidee baa waxanu ku noqon doonaan?” Anigu ninna garan maayo. Malaa'igtii waa u jawaabtay oo ku tidhi, Ruuxa Quduuska ah ayaa kugu soo degi doona, oo xooggii Kan ugu sarreeya ayaa hoosiis kuu noqon doona, sidaa darteed kan quduuska ah oo kaa dhalan doona waxaa loogu yeedhi doonaa Wiilka Ilaah. Maryan ayaa tidhi, Waa i kan, waxaan ahay addoontii Rabbiga. Sidaad u hadashay ha ii noqoto.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-06.jpg?direct&}}
 
 
 Not long after this, Mary went and visited Elizabeth. As soon as Elizabeth heard Mary’s greeting, Elizabeth’s baby jumped inside her. The women rejoiced together about what God had done for them. After visiting for three months, Mary returned home.
@@ -58,7 +58,7 @@ Not long after this, Mary went and visited Elizabeth. As soon as Elizabeth heard
 Maalmahaas Maryan baa kacday, oo waxay dhaqso u tagtay dhulkii buuraha lahaa ilaa magaalo ka mid ah reer Yahuudah,  oo waxay gashay gurigii Sakariyas, oo salaantay Elisabed. Oo waxaa dhacay goortii Elisabed salaantii Maryan maqashay in ilmihii uurkeeda ku boodbooday; Elisabedna waxaa ka buuxsamay Ruuxa Quduuska ah. Maryan waxay iyada la joogtay abbaaraha saddex bilood, markaasay gurigeeda ku noqotay.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-07.jpg?direct&}}
 
 
 After Elizabeth gave birth to her baby boy, they named him John as the angel commanded. Then God allowed Zechariah to speak again. He said, “Praise God, because he has remembered his people! You, my son, will be called the prophet of the Most High God! You will prepare the way for the Messiah!”

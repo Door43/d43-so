@@ -4,7 +4,7 @@
 Ciise oo Lagu Qodbay Iskutallaabta
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-01.jpg?direct&}}
 
 
 After mocking Jesus, the soldiers led him away to be crucified. They made him carry his own cross.
@@ -13,7 +13,7 @@ After mocking Jesus, the soldiers led him away to be crucified. They made him ca
 Oo goortay ku majaajiloodeen Ciise, markaasay askartii u kaxaysay iskutallaabta lagu qodbi laha. Waxanay u dhiibeen inu qaato iskutallaabti lagu qodbi laha.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-02.jpg?direct&}}
 
 
 The soldiers brought Jesus to a place called “The Skull” and nailed his arms and feet to the cross. But Jesus said, “Father, forgive them, because they do not know what they are doing.” Pilate commanded that a sign be put above Jesus’ head that read, “King of the Jews.”
@@ -22,7 +22,7 @@ The soldiers brought Jesus to a place called “The Skull” and nailed his arms
 Oo goortay yimaadeen meel Golgota la odhan jiray, tan la yidhaahdo meeshii “Dhakada” waxanay qodbeen gacmihiis iyo lugahiisii. Laakiin Ciise waxa uu yidhi, “ Aabbo, iska cafi iyaga, maxa yeelay iyagu ma garanayan waxa aay sameynaayan.” Bilaatos waxa uu amray in marka Ciise iskutallabta lagu qodbo lagu qoro meesha madaaxisa ka saraysa, “ Waa kan Boqorka Yahuudu.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-03.jpg?direct&}}
 
 
 The soldiers gambled for Jesus’ clothing. When they did this, they fulfilled a prophecy which said, “They divided my garments among them, and gambled for my clothing.”
@@ -31,7 +31,7 @@ The soldiers gambled for Jesus’ clothing. When they did this, they fulfilled a
 Oo goortay iskutallaabta ku qodbeen, dharkiisay qaybsadeen, wayna saami riteen si wixii nebigu ku hadlay u noqdaan, Dharkaygii bay qaybsadeen oo maradaydii bay saami u riteen.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-04.jpg?direct&}}
 
 
 Jesus was crucified between two robbers. One of them mocked Jesus, but the other said, “Don’t you fear God? We are guilty, but this man is innocent. Jesus, please remember me in your Kingdom.” Jesus said to him, “Today, you will be with me in Paradise.”
@@ -40,7 +40,7 @@ Jesus was crucified between two robbers. One of them mocked Jesus, but the other
 Ciise waxa  iskutallaabo lagu la qodbay laba tuug, mid midigta, midna bidixda. Mid kamida tuugti ayaa Ciise af lagadeeyey laakiin kii kale ayaa ku yidhi, “Ilaahay maanad ka cabsanayn? Inagu danbiilayaal ayaan nahay, laakiin ninkan waa bila denbi. markasu yidhi Ciise, fadlan iso xasuuso markaad jannada aado.” Kadib Ciise ayaa ku yidhi, “ Maanta , adigu waxaad ilaa joogii doonta Jannada.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-05.jpg?direct&}}
 
 
 The crowd and the Jewish leaders mocked Jesus, saying, “If you are the Son of God, come down from the cross and save yourself! Then we will believe you.”
@@ -49,7 +49,7 @@ The crowd and the Jewish leaders mocked Jesus, saying, “If you are the Son of 
 Dadkii faraha badna iyo hogamiyaayshii Yahuuda ayaa si af lagado ku jirto Ciise ku yidhi, “ Haddii aad tahay Wiilka Ilaahay, kaso deg iskutallabta oo adigu is bedbaadi! kadib waanu ku rumeysan doona.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-06.jpg?direct&}}
 
 
 It was the middle of the day, but darkness came over the whole land. It stayed dark from noon until 3:00 in the afternoon.
@@ -58,7 +58,7 @@ It was the middle of the day, but darkness came over the whole land. It stayed d
 Waxa aay aheyd maalin ilaa barqadii,  laakiin markii Ciise la qodbay waxa madobaday dhulka oo dhan. Waxanay madow noqotay ilaa casarkii 3:00 galabnimo.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-07.jpg?direct&}}
 
 
 Then Jesus cried out, “It is finished! Father, I give my spirit into your hands.” Then he bowed his head and gave up his spirit. When he died, there was an earthquake and the large curtain in the Temple that separated the presence of God from the people was torn in two, from the top to the bottom.
@@ -67,7 +67,7 @@ Then Jesus cried out, “It is finished! Father, I give my spirit into your hand
 Markaasaa Ciise goortuu mar kale cod weyn ku dhawaaqay, “ Waay dhamaatay! Aabbo gacmahaga ayaa ruuxii ku bixiyey.”  Oo bal eeg, daahi macbudka ayaa kor ilaa hoos laba u kala dillaacay, dhulkiina waa gariiray, dhagaxyadiina waa kala dildillaaceen. Xabaalihiina waa furmeen, oo quduusiin badan oo hurdayna meydadkoodii waa la kiciyey.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-08.jpg?direct&}}
 
 
 Through his death, Jesus opened a way for people to come to God. When the soldier guarding Jesus saw everything that happened, he said, “Certainly, this man was innocent. He was the Son of God.”
@@ -76,7 +76,7 @@ Through his death, Jesus opened a way for people to come to God. When the soldie
 Ciise dhimashadiis, waxa aay dad badan u furtay inay Ilaahay raacan. Boqol-u-taliyihii iyo kuwii la jiray oo Ciise dhawrayay, goortay arkeen dhulgariirkii iyo wixii dhacay, aad bay u baqeen oo yidhaahdeen, “Runtii, kanu wuxuu ahaa Wiilkii Ilaah.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-09.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-09.jpg?direct&}}
 
 
 Then Joseph and Nicodemus, two Jewish leaders who believed Jesus was the Messiah, asked Pilate for Jesus’ body. They wrapped his body in cloth and buried it in a tomb cut out of rock. Then they rolled a large stone over the opening.

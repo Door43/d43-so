@@ -4,7 +4,7 @@
 Sheekada Ninkii Beerta Laha
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg?direct&}}
 
 
 One day, Jesus was down by the sea, teaching great crowds of people. The crowd got so big that Jesus got into a boat and began speaking from there.
@@ -13,7 +13,7 @@ One day, Jesus was down by the sea, teaching great crowds of people. The crowd g
 Haddana wuxuu bilaabay inuu badda agteeda wax ku baro, oo waxaa u soo ururay dad badan, sidaa darteed doonni ayuu fuulay,
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg?direct&}}
 
 
 Jesus told this story. “A farmer went out to plant some grain. As he was spreading the seeds by hand, some seeds fell on the path, and the birds came and ate it all.”
@@ -22,7 +22,7 @@ Jesus told this story. “A farmer went out to plant some grain. As he was sprea
 “Dhegaysta, waxaa baxay beerrey inuu wax beero.  Intuu beerayay qaar baa jidka geestiisa ku dhacay, kolkaasaa shimbirro yimaadeen oo cuneen.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg?direct&}}
 
 
 “Other seeds fell on a rocky place, where there was not much soil. The seeds in the rocky soil sprouted quickly. But when the sun came up and it got hot, the plants withered and died since their roots did not go deep.”
@@ -31,7 +31,7 @@ Jesus told this story. “A farmer went out to plant some grain. As he was sprea
 “Qaar kalena waxay ku dhaceen dhul dhagax ah oo aan carro badan lahayn; kolkiiba way soo baxeen, waayo, carradu hoos uma dheerayn, laakiin qorraxdu goortay soo baxday way gubteen, waana engegeen, waayo, xidid ma lahayn.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg?direct&}}
 
 
 “Still other seeds fell among thorny bushes. Those seeds were choked by the thorns and did not produce any grain.”
@@ -40,7 +40,7 @@ Jesus told this story. “A farmer went out to plant some grain. As he was sprea
 “Qaar kalena waxay ku dhex dhaceen qodxan, qodxantiina waa soo baxday oo ceejisay, oo midho ma ay dhalin.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?direct&}}
 
 
 “Other seeds fell into good soil. These seeds grew up and produced 30, 60, or even 100 times as much grain as had been planted. He who has ears, let him hear!”
@@ -49,7 +49,7 @@ Jesus told this story. “A farmer went out to plant some grain. As he was sprea
 “Qaar kalena dhul wanaagsan bay ku dhaceen, oo intay baxeen ayay koreen oo midho dhaleen. Mid wuxuu dhalay soddon, midna lixdan, midna boqol. Oo wuxuu ku yidhi, Kan dhego wax lagu maqlo lahu ha maqlo!”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg?direct&}}
 
 
 This story confused the disciples. So Jesus explained, “The seed represents the Word of God. The seeds on the path are like people who hear God’s Word, do not understand it, and the devil takes the word from them.”
@@ -58,7 +58,7 @@ This story confused the disciples. So Jesus explained, “The seed represents th
 Sheekadu waxa aay dawiikhsay xerii Ciise. Kadib Ciise ayaa u sharaxay, “ Miraha waxa aay u tagan yihiin ereyga Ilaahay. Miraha dariiqa ku dhacay waxa aay ka dhigan yihin kuwa ereyga Ilaahay maqlay, laakiin aan fahmin, kaasi oo shaydanku ka masaxo ereyga Ilaahay ee uu maqlay.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?direct&}}
 
 
 “The seeds on the rocky soil are like people who hear God’s Word and accept it with joy. But in times of hardship or persecution, they fall away because they have no maturity.”
@@ -67,7 +67,7 @@ Sheekadu waxa aay dawiikhsay xerii Ciise. Kadib Ciise ayaa u sharaxay, “ Mirah
 “Si la mid ahna kuwan waa kuwii dhul dhagax ah lagu beeray, kuwii goortay hadalkii maqlaanba kolkiiba farxad bay ku qaataan; 17 xididse isagu ma leh, laakiin wakhti yar bay sii jiraan, markii dambe goortii dhib ama silac u dhoco hadalka aawadiis, markiiba way ka xumaadaan.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?direct&}}
 
 
 “The seeds in the thorns are like people who hear God’s Word and believe it. But as time passes, their love for God is choked out by the cares, riches, and pleasures of life. The teaching they heard does not produce fruit.”
@@ -76,7 +76,7 @@ Sheekadu waxa aay dawiikhsay xerii Ciise. Kadib Ciise ayaa u sharaxay, “ Mirah
 “Kuwanna waa kuwii qodxanta lagu dhex beeray, kuwa hadalka maqla, 19 laakiin kawelwelidda dunidan, iyo sasabidda maalka, iyo damacyada wax kale ayaa gala oo hadalkii ceejiya, oo wuxuu noqdaa midhola'aan.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?direct&}}
 
 
 “But the seeds that fall on good soil represent people who hear the Word of God, believe it, and produce fruit.”
