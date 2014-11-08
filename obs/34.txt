@@ -4,7 +4,7 @@
 Ciise oo Baraya Dadka Sheekooyin kale
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-01.jpg?direct&}}
 
 
 Jesus told many other stories about the Kingdom of God. He said, “The Kingdom of God is like a mustard seed that a man planted in his field. When it is a seed, it is the smallest seed of all.”
@@ -13,7 +13,7 @@ Jesus told many other stories about the Kingdom of God. He said, “The Kingdom 
 “Masaal kale ayuu u saaray oo wuxuu yidhi, Boqortooyada jannada waxay u eg tahay iniin khardal, tan uu nin qaaday oo beertiisa ku beeray. Marka aay tahay iniin, waa iniinta ugu yara iniin yaha oo dhan.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-02.jpg?direct&}}
 
 
 “But when the mustard seed has grown, it is the largest of all garden plants, big enough that even the birds come and make nests in its branches.”
@@ -22,7 +22,7 @@ Jesus told many other stories about the Kingdom of God. He said, “The Kingdom 
 “Laakin taas waa ka wada yar tahay iniinaha oo dhan, laakiin goortay weynaato, way ka weyn tahay dhalatada oo dhan, oo waxay noqotaa geed dheer si ay shimbirraha cirku u yimaadaan oo laamaheeda ugu degaan.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-03.jpg?direct&}}
 
 
 Jesus told another story, “The Kingdom of God is like yeast that a woman mixed into some bread dough until it spread all the way through.”
@@ -30,7 +30,7 @@ Jesus told another story, “The Kingdom of God is like yeast that a woman mixed
 
 \\ 
 “Masaal kale ayuu kula hadlay Ciise, “Boqortooyada jannada waxay u eg tahay khamiir, kan naagi intay qaadday ay saddex qiyaasood oo bur ah ku dhex qooshtay ilaa ay wada khamiireen.”\\ 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-04.jpg?direct&}}
 
 
 “The Kingdom of God is also like hidden treasure in a field, which a man found and then buried again. In his joy, he went and sold everything he had and bought that field.”
@@ -39,7 +39,7 @@ Jesus told another story, “The Kingdom of God is like yeast that a woman mixed
 “Boqortooyada jannadu waxay u eg tahay maal beer ku qarsoon, kan nin intuu helay qarsaday, oo farxad aawadeed ayuu baxay, oo wuxuu lahaa oo dhan iibiyey, oo beertaas iibsaday.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-05.jpg?direct&}}
 
 
 “The Kingdom of God is also like a pearl merchant who was looking for perfect pearls. When he found one of great value, he sold all that he had and bought it.”
@@ -48,7 +48,7 @@ Jesus told another story, “The Kingdom of God is like yeast that a woman mixed
 “Haddana boqortooyada jannadu waxay u eg tahay baayacmushtari luul wanaagsan doonaya.  Goortuu xabbad luul ah oo ganac weyn helay, ayuu baxay, oo wuxuu lahaa oo dhan ayuu iibiyey oo iibsaday.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-06.jpg?direct&}}
 
 
 Then Jesus told a story about people who trust in their own good deeds and despise other people. “Two men went up to the Temple to pray. One of them was a tax collector, and the other a religious leader.”
@@ -57,7 +57,7 @@ Then Jesus told a story about people who trust in their own good deeds and despi
 “Ninkii wadaadka ah ayaa waxa uu ku tukaday sidan, ‘ Ilaahow aad ayaad u mahadsantahay anigu ma ihi sida nimaankaas oo kale, budhcad, nin xaq darada ku dhaqma, ama sinaaysayta xatta cashuur uruuriyaha oo kale’”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-07.jpg?direct&}}
 
 
 “The religious leader prayed like this, ‘Thank you God that I am not like other men—robbers, unjust men, adulterers, or even like that tax collector.’”
@@ -66,7 +66,7 @@ Then Jesus told a story about people who trust in their own good deeds and despi
 “Laba jeer ayaan asbuucii sooma, boqolkiba tobana waan bixiya waxa aan helo.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-08.jpg?direct&}}
 
 
 “‘I fast two times every week and I give you ten percent of everything I get.’”
@@ -75,7 +75,7 @@ Then Jesus told a story about people who trust in their own good deeds and despi
 “Laakiin ninkii cashuur qaadaha ah ayaa meel fog ka istagay ninki kale, xatta idhihiisa sare umu qaadin, oo into laabtisa garacay ayuu Ilaahay u cibaadaystay, ‘ Ilaahow, ii naxariiso aniga, anigu waxan ahay denbiile.’”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-09.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-09.jpg?direct&}}
 
 
 “But the tax collector stood far away, did not even lift his eyes up to heaven, but beat his chest and prayed, ‘God, have mercy on me, a sinner.’”
@@ -84,7 +84,7 @@ Then Jesus told a story about people who trust in their own good deeds and despi
 TKadib Ciise ayaa yidhi, “ Runta ayaan idin sheegayaa, cashuur qadaha waxa uu guri la tegay isaga oo la cafiyeey laakiin ninka aha wadaadka diinta ma helin cafis. Qof kaste oo isa sareysiiya hoos ayaa loo dhiga, laakin qof kaste oo isa hooseysiya sare ayaa loo qaada/”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-10.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-10.jpg?direct&}}
 
 
 Then Jesus said, “I tell you the truth, the tax collector went home forgiven, and not the religious leader. Everyone who is proud will be humbled, but whoever humbles himself will be lifted up.”

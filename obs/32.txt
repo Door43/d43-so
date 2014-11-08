@@ -4,7 +4,7 @@
 Ciise oo Daweyey Ninki Jinku ku jiray iyo Naagti Xanuusnayd
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-01.jpg?direct&}}
 
 
 One day, Jesus and his disciples crossed the Sea of Galilee to the country of the Gerasenes.
@@ -13,7 +13,7 @@ One day, Jesus and his disciples crossed the Sea of Galilee to the country of th
 Maalin, ayuu Ciise iyo xertiisii waxay ka talabeen bada Galiiliya iyaga oo u sii socda Gadareni. Markay gaadheen xaki kale ee bada ayaa waxay halkaas ku arkeen nin jinni qaba oo ku so cararaya Ciise.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-02.jpg?direct&}}
 
 
 When they reached the other side, a demon-possessed man came running up to Jesus.
@@ -22,7 +22,7 @@ When they reached the other side, a demon-possessed man came running up to Jesus
 Ninkan jinka qaba aad ayuu u xoog badna xatta qof qudhii ma qaban kareyn. Xatta dadku waxa ay isaga ku xidhi jireen silsilado laakiin wuu jebin jiray waxa uu xoog ka qabo.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-03.jpg?direct&}}
 
 
 This man was so strong that nobody could hold him down. People had even used chains to lock him up, but he kept breaking them.
@@ -31,7 +31,7 @@ This man was so strong that nobody could hold him down. People had even used cha
 Ninkani waxa uu ku noola meelaha xabalaha agtooda. Maalin iyo habeen ninkani wuu qaylin jiray. Dhar mu xidhnaan jirin waxanu isla dhici jiray dhagaxan.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-04.jpg?direct&}}
 
 
 The man lived among the tombs in the area. Day and night this man would scream. He wore no clothes and cut himself repeatedly with stones.
@@ -40,7 +40,7 @@ The man lived among the tombs in the area. Day and night this man would scream. 
 Marku ninki Ciise u yimid, waxa uu ku hoos dhacay jilbaha Ciise. Ciise ayaa ku yidhi, “ Jinko ka so bax ninkan!”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-05.jpg?direct&}}
 
 
 When the man came to Jesus, he fell on his knees in front of him. Jesus said, “Come out of the man, demon!”
@@ -49,13 +49,13 @@ When the man came to Jesus, he fell on his knees in front of him. Jesus said, �
 Ninki jinka qabay ayaa intu cabaaday cod dheer ku yidhii, “ Maxaad iga rabta aniga, Ciisow, Inaanki ka aduunka ugu sareeyow ee Ilaahay? Fadlan ha ii ciqaabin aniga! Kadib Ciise ayaa waxa uu ninki ku yidhi, “ Magacaga ii sheeg?” Waxa uu ugu jawabay, “ magacaygu waa —–oo macneehedu yahay in badan.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-06.jpg?direct&}}
 
 
 The man with the demon cried out in a loud voice and said, “What do you want with me, Jesus, Son of the Most High God? Please do not torture me!” Then Jesus asked the man, “What is your name?” He replied, “My name is Legion, for we are many.” (A legion was a group of up to 6,000 soldiers.)
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-07.jpg?direct&}}
 
 
 The demons begged Jesus, “Please do not send us out of this area!” There was a herd of pigs feeding on a nearby hill. So, the demons begged Jesus, “Please send us into the pigs instead!” Jesus said, “Go!”
@@ -64,7 +64,7 @@ The demons begged Jesus, “Please do not send us out of this area!” There was
 Jinkii ayaa Ciise tuugay, “ Fadlan meelahan ha nagu fasixin!” Waxa jiray Doofaro fara badan oo meesha joogay oo ku dhawa buurta dhinaceeda. Kadib, Jinkii waxay Ciise ka baryeen, “ Fadlan waxad noo dirtaa inan galno doofarada!” Ciisana waxa uu ku amray inay doofarada dhex galaan oo waxa uu ku yidhi waa kaas ee ordo gala!
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-08.jpg?direct&}}
 
 
 The demons came out of the man and entered the pigs. The pigs ran down a steep bank into the sea and drowned. There were about 2,000 pigs in the herd.
@@ -73,7 +73,7 @@ The demons came out of the man and entered the pigs. The pigs ran down a steep b
 Jinkii waay ka so baxeen ninkii waxanay galeen doofaradii. Doofaradii aaya marku jinkii galay waxay ku cararen xagaa badada oo dhamaantood liqday waxay ahayen ilaa 2,000 oo doofaar.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-09.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-09.jpg?direct&}}
 
 
 When the people taking care of the pigs saw what happened, they ran and told everyone what Jesus had done. All the people came from the town and saw the man who used to have the demons. He was sitting down, wearing clothes, and acting like a normal person.
@@ -82,7 +82,7 @@ When the people taking care of the pigs saw what happened, they ran and told eve
 Marka aay arkeen dadkii doofaarad ilaalinay waxa dhacay, waay carareen waxanay qof kaste uu sheegen waxa uu Ciise sameyey. Dadkii oo dhan ayaa magalada ka so baxay waxanay arkeen ninki jinka qabay ee waalna oo fadhiya oo dhar xidhan oo sida qof caadiya ah.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-10.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-10.jpg?direct&}}
 
 
 The people were very afraid and asked Jesus to leave. So Jesus got into the boat and prepared to leave. The man who had been healed begged to go along with Jesus.
@@ -91,7 +91,7 @@ The people were very afraid and asked Jesus to leave. So Jesus got into the boat
 Laakiin Ciise waxa uu ku yidhi, “ Aad gurigiini oo saxiibada u sheeg iyo qoyskaga sida Ilaahay ku sameyey iyo sida uu adiga kugu naxariistay.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-11.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-11.jpg?direct&}}
 
 
 But Jesus said to him, “Go home and tell your friends and family how much God has done for you and how he has had mercy on you.”
@@ -100,7 +100,7 @@ But Jesus said to him, “Go home and tell your friends and family how much God 
 Kadib ninki wuu tagay waxanu qof kaste u sheegay waxa uu Ciise u sameeyey isaga. Qofkaste oo maqlay sheekadiisii aad ayuu u yaabay oo uu u fajacay.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-12.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-12.jpg?direct&}}
 
 
 So the man went away and told everyone about what Jesus had done for him. Everyone who heard his story was filled with wonder and amazement.
@@ -109,7 +109,7 @@ So the man went away and told everyone about what Jesus had done for him. Everyo
 Ciise waxa uu ku laabtay dhinici bada Galiliya. Dad fara badan ayaa ku so uururay iyaga oo ammanaya isaga. Dadka buuqsan dhaxdooda waxa ku jirtay naag cadadu ka socodatay laba iyo toban sanno. Waxanay lacagteedi oo dhan ku bixisay dhakhaatir sidii aay cafimad u heli lahayd, laakiin way ka sii daraysay.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-13.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-13.jpg?direct&}}
 
 
 Jesus returned to the other side of the Sea of Galilee. A large crowd gathered around him and pressed in on him. In the crowd was a woman who had been bleeding for twelve years. She had spent all her money on doctors trying to get better, but she only got worse.
@@ -118,7 +118,7 @@ Jesus returned to the other side of the Sea of Galilee. A large crowd gathered a
 Markay Ciise maqashay inu dad badan daweeyey waxa aay ku fikirtay, “ Hadii aan Ciise taabto’ dharkiisa, aniga naftaydu waan caafimadii laha!” Qun yar ayeey Ciise ayeey dharkiisii taabatay. Isla markay Ciise tabatay, ayuu dhiigii istagay!
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-14.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-14.jpg?direct&}}
 
 
 She heard how Jesus had healed many sick people and thought to herself, “If I only touch Jesus’ clothes, then I, too, will be healed!” She came up behind Jesus and touched his clothes. As soon as she touched Jesus, the bleeding stopped!
@@ -127,7 +127,7 @@ She heard how Jesus had healed many sick people and thought to herself, “If I 
 Isla markiiba Ciise ayaa dareemay inay awoodii ka tagtay. hareeraha ayuu eegay oo waxa uu yidhi, “Yaa itabtay aniga? xertiisa ayaa ugu jawabtay Ciise, “ Ciisow, dad badan ayaa adiga kugu buuqsan oo ku hirdiyaya. Sidee ayaad u weydin karta, ‘ Yaa itabtay aniga?’”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-15.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-15.jpg?direct&}}
 
 
 Immediately Jesus realized that power had gone out from him. So he turned around and asked, “Who touched me?” The disciples replied, “Jesus, there are many people crowding around you and bumping into you. How can you ask, ‘Who touched me?’”
@@ -136,7 +136,7 @@ Immediately Jesus realized that power had gone out from him. So he turned around
 Isla markiiba Ciise ayaa dareemay inay awoodii ka tagtay. hareeraha ayuu eegay oo waxa uu yidhi, “Yaa itabtay aniga? xertiisa ayaa ugu jawabtay Ciise, “ Ciisow, dad badan ayaa adiga kugu buuqsan oo ku hirdiyaya. Sidee ayaad u weydin karta, ‘ Yaa itabtay aniga?’”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-16.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-16.jpg?direct&}}
 
 
 The woman fell on her knees before Jesus, shaking and very afraid. Then she told the whole truth. Jesus said to her, “Your faith has healed you. Go in peace.”

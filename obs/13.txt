@@ -4,7 +4,7 @@
 Axdigii Ilaahay La galay Reer Israa’iil
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-01.jpg?direct&}}
 
 
 After God led the Israelites through the Red Sea, he led them through the wilderness to a mountain called Sinai. This was the same mountain where Moses had seen the burning bush. The people set up their tents at the base of the mountain.
@@ -13,7 +13,7 @@ After God led the Israelites through the Red Sea, he led them through the wilder
 Kadib marku Ilaah dhafiyeey bada cas dadkii reer Israa’iil, waxay si mareen saxaraha buuraha leh ee lagu magacabo Siinay. Buurtani waxay aheyd buurti uu Muuse ku arkay keynta gubanaysa. Dadkiina waxay tan dhooyinkoodi ka dhisteen buurtaas hoosteeda.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-02.jpg?direct&}}
 
 
 God said to Moses and the people of Israel, “If you will obey me and keep my covenant, you will be my prized possession, a kingdom of priests, and a holy nation.”
@@ -22,7 +22,7 @@ God said to Moses and the people of Israel, “If you will obey me and keep my c
 Ilaah wuxu Muuse ku yidhi iyo dadki reer Israa’iil, “ Hadaad aniga I adeecedan oo aad axdigeyga ilaalisan,waxad noqon doontan qaar aan si qimo leh u ilaaliyo, imam boqoorina iyo qaran qudduusa.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-03.jpg?direct&}}
 
 
 Three days later, after the people had prepared themselves spiritually, God came down on top of Mount Sinai with thunder, lightning, smoke, and a loud trumpet blast. Only Moses was allowed to go up the mountain.
@@ -31,7 +31,7 @@ Three days later, after the people had prepared themselves spiritually, God came
 Saddex cisho ka bacdi,  markay dadkii siku diyariyeen inay cibaadaystan, Ilaah ayaa buurta siinaya uso diray onkod, iftiinm qiiq, iyo qaylo aad moodo hub. Muuse oo qudha yaa lo diray inu aado buurta dusheeda.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-04.jpg?direct&}}
 
 
 Then God gave them the covenant and said, “I am Yahweh, your God, who saved you from slavery in Egypt. Do not worship other gods.”
@@ -40,7 +40,7 @@ Then God gave them the covenant and said, “I am Yahweh, your God, who saved yo
 Kadib Ilaah ayaa wuxu u so dhibay axdi kuna yidhi, “ Anigu waxan ahay Ilaah, Ilaahinii, idinka so badbaadiyeey gumaysigii Masar. Ha u cibaadaysanina Ilaah kale oo aan aniga aheyn.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-05.jpg?direct&}}
 
 
 “Do not make idols or worship them, for I, Yahweh, am a jealous God. Do not use my name in a disrespectful way. Remember to keep the Sabbath day holy. Do all your work in six days, for the seventh day is a day of rest to remember me.”
@@ -49,7 +49,7 @@ Kadib Ilaah ayaa wuxu u so dhibay axdi kuna yidhi, “ Anigu waxan ahay Ilaah, I
 “Ha u cibadaysanina asnaabta ama ha u tukanina, Aniga ayaa Ilaaahay oo aan ogolayn in cid kale la cabuudo oo aan aniga aheyn. Magacayga ha u isiticmaalin si ixtiraan daro ku jirto. Xasuusta inaad maalinta sabtida ka dhigtaan maalin quudusa. Shaqadina qabsada lixda cisho ee kale, laakiin maalinta axada waa inay noqota maalin nasasho si aad aniga ii xasuustan.”
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-06.jpg?direct&}}
 
 
 “Honor your father and your mother. Do not murder. Do not commit adultery. Do not steal. Do not lie. Do not wish you had your neighbor’s wife, his house, or anything that belongs to him.”
@@ -58,7 +58,7 @@ Kadib Ilaah ayaa wuxu u so dhibay axdi kuna yidhi, “ Anigu waxan ahay Ilaah, I
 Aabbahaa iyo hooyadaa maamuus, in cimrigaagu ku dheeraado dhulka Rabbiga Ilaahaaga ahu ku siiyo. Waa inaanad qudh gooyn.Waa inaanad sinaysan. Waa inaanad waxba xadin.Waa inaanad deriskaaga marag been ah ku furin. Waa inaanad damcin guriga deriskaaga, waa inaanad damcin naagta deriskaaga, ama addoonkiisa, ama addoontiisa, ama dibigiisa, ama dameerkiisa, ama waxa deriskaagu leeyahay oo dhan.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-07.jpg?direct&}}
 
 
 Then God wrote these Ten Commandments on two stone tablets and gave them to Moses. God also gave many other laws and rules to follow. If the people obeyed these laws, God promised that he would bless and protect them. If they disobeyed them, God would punish them.
@@ -67,7 +67,7 @@ Then God wrote these Ten Commandments on two stone tablets and gave them to Mose
 Kadib Ilaah wuxu qoray tobanka ammar oo u ku qoray dhagax dushiis wuxuna u dhiibay Muuse. Ilaah waxa sido kale uu sharciyo farabadan oo la raco u dhiibay isaga. Haddi aay dadku adeecan sharciyadan, Ilaah wuxu ugu balan qaaday inu barakayen doono oo uu  xafidii doono iyaga. Haddi aay caasiyaan ammarkiisana iyaga wuu ciqabi doona.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-08.jpg?direct&}}
 
 
 God gave the Israelites a detailed description of a tent he wanted them to make. It was called the Tent of Meeting, and it had two rooms, separated by a large curtain. No one could enter the room behind the curtain except the high priest, because God lived there.
@@ -76,7 +76,7 @@ God gave the Israelites a detailed description of a tent he wanted them to make.
 Ilaah wuxu u sheegay inay Israa’iiliyintu sameeyen taandho waanu u sharaxay sida aay u eekan doonto. Taandhada waxa loo bixiyeey Taandhada kulanka, waxayna ka kkobnayd laba qol oo kala socon oo daahweyn u dhexda kaga yalo. Lamana olonayn inay cidu gasho qayb taandhada kamid ah laga reebo Imaanka ugu wey mooye, waayo xaggasi waxay aheyd xaga Ilaah lagu cabudo.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-09.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-09.jpg?direct&}}
 
 
 Anyone who disobeyed God’s law could bring an animal to the Tent of Meeting as a sacrifice to God. A priest would kill the animal and burn it on the altar. The blood of the sacrifice covered the person’s sin and made that person clean in God’s sight. God chose Moses' brother, Aaron, and his descendants to be his priests.
@@ -85,7 +85,7 @@ Anyone who disobeyed God’s law could bring an animal to the Tent of Meeting as
 Qofkaste oo caasiya sharciga ilaah waxay aheyd inu keeno neef xoolaha Taandhada kulanka si  loogu sadaqeeyo Ilaah hortiis. Imaamka ugu sareeya ayaaku qala meesha allabariga.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-10.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-10.jpg?direct&}}
 
 
 The people all agreed to obey the laws that God had given them, to worship only God, and to be his special people. But a short time after they promised to obey God, they sinned terribly.
@@ -94,7 +94,7 @@ The people all agreed to obey the laws that God had given them, to worship only 
 Dhiiga wanqasha ayaa lagu danbi dhaafi jiray danbiga qofka danbaaba, dhiigasuna wuxu qofka ka kaxeynayeey danbiga Ilaah agtiisa. Ilaah wuxu doortay Muuse walalki, Haruun, iyo faraciisa inaay noqdaan dad wadaaddadah.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-11.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-11.jpg?direct&}}
 
 
 For many days, Moses was on top of Mount Sinai talking with God. The people became tired of waiting for him to return. So they brought gold to Aaron and asked him to make an idol for them!
@@ -103,7 +103,7 @@ For many days, Moses was on top of Mount Sinai talking with God. The people beca
 TDadka oo dhan waxay ku heshiyeen inay sharciga Ilaahay u hogaansaman waayo isagaa ayaa Ilaah ku so dejiyeey iyaga.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-12.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-12.jpg?direct&}}
 
 
 So Aaron made a golden idol in the shape of a calf. The people began to wildly worship the idol and make sacrifices to it! God was very angry with their sin and planned to destroy them. But Moses prayed for them, and God listened to his prayer and did not destroy them.
@@ -112,7 +112,7 @@ So Aaron made a golden idol in the shape of a calf. The people began to wildly w
 Maalmo badan kadib, Muuse ayaa tegey buurta Sinaay dusheeda si uu ula hadlo Ilaahay. Dadlii ayaa aad uga dalay sugitaanki  Muuse intii uu ku maqna buurta dushiseeda. Kadibna waxay Haruun u keenen tahab waxanay ka codsadeen in uu ka sameeyo asnaab aay cabuudan iyagu.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-13.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-13.jpg?direct&}}
 
 
 When Moses came down the mountain and saw the idol, he was so angry that he smashed the stones on which God had written the Ten Commandments.
@@ -121,7 +121,7 @@ When Moses came down the mountain and saw the idol, he was so angry that he smas
 Kadibna Haruun wuxu dahabkii ka sameeyey sanam leh araga neefa weyshaha. Dadkii ayaa waxay bilaabeen inay si aad ubaladhan u cabuudan sanamka kadibna waxay allabari u sameyn jireen asanaabta. Ilaah aad ayuu uga cadhooday danbiga aay sameynayee waxanu damcay oo qorsheeyey  inu baabiyo iyaga. Laakiin Muuse ayaa iyaga u duceeyey, Ilaahna waa ka aqbalay ducadii Muuse manu burburin iyaaga..
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-14.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-14.jpg?direct&}}
 
 
 Then Moses beat the idol into powder, threw the powder into some water and made the people drink the water. God sent a plague on the people and many of them died.
@@ -130,7 +130,7 @@ Then Moses beat the idol into powder, threw the powder into some water and made 
 Marku Muuse ka yimid buurta dusheedii wuxu arkay sanamkii, aad ayuu uga cadhooday waxanu burburiyeey  dhagaxii uu Ilaah ku qoray tobanka ammar ama sharci.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-15.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-15.jpg?direct&}}
 
 
 Moses climbed the mountain again and prayed that God would forgive the people. God listened to Moses and forgave them. Moses wrote the Ten Commandments on new stone tablets to replace the ones he had broken. Then God led the Israelites away from Mount Sinai toward the Promised Land.
