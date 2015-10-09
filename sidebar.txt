@@ -9,17 +9,12 @@
 
   * [[so:obs|Open Bible Stories (so)]]
 
-
 **Downloads**
 
 All content for this namespace is available in the [[https://github.com/Door43/d43-so|d43-so repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-so/archive/master.zip|d43-so.zip]]
 
 **Recent Changes**
 {{changes>ns = so}}
-
-**Latest Status**
-{{page>en:uwadmin:so:obs:status}}
-
 
 **Language Information**
 
